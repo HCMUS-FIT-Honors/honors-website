@@ -1,34 +1,13 @@
-# HCMUS FIT Honors Program Website
+# HCMUS FIT Honors Program Website — v3
+Homepage redesigned around 25 cohorts (2002–2026), ~1,100 students who have studied or are studying, and 900+ alumni.
 
-Static website starter for GitHub Pages.
+## GitHub Pages update
+Upload/replace `index.html`, `assets/css/style.css`, and the `cohorts` folder in the repository root.
+GitHub Pages will redeploy automatically after commit.
 
-## Included
-- Main Honors Program homepage
-- CNTN 2024 cohort page
-- Reusable cohort template
-- Responsive CSS
-- No build step / framework required
+Note: cohort counts 2002–2022 are based on the supplied workbook data; 2023–2026 are currently shown approximately (~40/cohort) until official rosters are added.
 
-## Publish with GitHub Pages
-1. Create the repository `honors-website` in the `HCMUS-FIT-Honors` organization.
-2. Upload all files from this package to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch `main` and folder `/ (root)`.
-6. Save. GitHub will publish the site.
-
-## Add a cohort
-Copy:
-`cohorts/_template/`
-
-to, for example:
-`cohorts/2025/`
-
-Then edit its `index.html`.
-
-## Recommended later
-- Replace placeholder content and statistics with verified data.
-- Add official HCMUS/FIT branding assets with permission.
-- Add real cohort photographs.
-- Add CODEOWNERS and GitHub Teams for each cohort.
-- Configure custom domain `honors.fit.hcmus.edu.vn` when approved.
+## v4 update
+- Refined hero typography.
+- “Khoa Công nghệ Thông tin” stays on a single line on normal desktop/tablet widths.
+- Mobile remains responsive and may wrap naturally on narrow screens.
