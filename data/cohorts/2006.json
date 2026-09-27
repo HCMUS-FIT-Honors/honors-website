@@ -1,0 +1,146 @@
+{
+  "year": 2006,
+  "students": [
+    "Võ Sỹ Bắc",
+    "Hoàng Phi Vũ",
+    "Phạm Hoài Vũ",
+    "Nguyễn Xuân Tường Huy",
+    "Nguyễn Hoàng Vũ",
+    "Châu Thế Hải",
+    "Hồng Chấn Phát",
+    "Lê Đỗ Hoàng Long",
+    "Lê Quốc Hưng",
+    "Mai Trọng Khánh",
+    "Lê Minh Quang",
+    "Phạm Trung Vũ",
+    "Đỗ Huy Hoàng",
+    "Phan Duy Hùng",
+    "Nguyễn Tiến Huy",
+    "Nguyễn Hồng Bửu Long",
+    "Nguyễn Hải Thiện",
+    "Vũ Tuấn Hưng",
+    "Nguyễn Vinh Tiệp",
+    "Huỳnh Quốc Trí",
+    "Nguyễn Văn Giang",
+    "Nguyễn Thùy Linh",
+    "Phạm Thanh Toàn",
+    "Hoàng Hải Hưng",
+    "Nguyễn Hồng Điệp",
+    "Nguyễn Hoàn",
+    "Hoàng Xuân Thảo",
+    "Lê Vĩnh Hà",
+    "Lâm Thanh Nhật",
+    "Trần Quốc Tuấn"
+  ],
+  "student_count": 30,
+  "theses": [
+    {
+      "student": "Võ Sỹ Bắc",
+      "title_vi": "Một số kỹ thuật thị giác máy tính để rút trích ngữ nghĩa từ video bóng đá",
+      "title_en": "",
+      "advisor": "Đinh Bá Tiến"
+    },
+    {
+      "student": "Phạm Hoài Vũ",
+      "title_vi": "Ràng buộc vật lí trong mô hình theo vết chuyển động",
+      "title_en": "",
+      "advisor": "Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Xuân Tường Huy",
+      "title_vi": "Tìm hiểu kỹ thuật phát hiện người trong video giám sát lớp học",
+      "title_en": "",
+      "advisor": "Đinh Bá Tiến"
+    },
+    {
+      "student": "Châu Thế Hải",
+      "title_vi": "Phương pháp loại bỏ nền và theo vết đặc trưng cho hệ thống giám sát giao thông",
+      "title_en": "",
+      "advisor": "Đinh Bá Tiến"
+    },
+    {
+      "student": "Lê Đỗ Hoàng Long",
+      "title_vi": "Rút trích cụm từ trong song ngữ Anh-Việt",
+      "title_en": "",
+      "advisor": "Đinh Điền"
+    },
+    {
+      "student": "Lê Quốc Hưng",
+      "title_vi": "Tổng hợp các phương pháp phát âm để chạy được trên nhiều máy có cấu hình khác nhau",
+      "title_en": "",
+      "advisor": "Thái Hùng Văn"
+    },
+    {
+      "student": "Lê Minh Quang",
+      "title_vi": "Tìm hiểu kiến trúc UIMA và ứng dụng tìm kiếm tài liệu Y khoa dựa trên khái niệm",
+      "title_en": "",
+      "advisor": "Hồ Bảo Quốc"
+    },
+    {
+      "student": "Đỗ Huy Hoàng",
+      "title_vi": "Nghiên cứu và xây dựng thử nghiệm hệ thống quản lý định danh với lưu trữ định danh trên thiết bị di động",
+      "title_en": "",
+      "advisor": "Trần Minh Triết, Nguyễn Sơn Hoàng Quốc"
+    },
+    {
+      "student": "Nguyễn Tiến Huy",
+      "title_vi": "Nghiên cứu và cải tiến hệ thống quản lý định danh dựa trên Open ID sử dụng thiết bị di động và lan truyền truy vấn định danh",
+      "title_en": "",
+      "advisor": "Trần Minh Triết, Nguyễn Sơn Hoàng Quốc"
+    },
+    {
+      "student": "Nguyễn Hải Thiện",
+      "title_vi": "Nghiên cứu phát triển thử nghiệm ứng dụng khả định vị",
+      "title_en": "",
+      "advisor": "Nguyễn Tuấn Nam"
+    },
+    {
+      "student": "Vũ Tuấn Hưng",
+      "title_vi": "Nghiên cứu và phát triển thử nghiệm một số phương pháp tương tác với máy tính sử dụng thị giác máy tính (phần 1)",
+      "title_en": "",
+      "advisor": "Trần Minh Triết"
+    },
+    {
+      "student": "Huỳnh Quốc Trí",
+      "title_vi": "Nghiên cứu và phát triển thử nghiệm một số phương pháp tương tác với máy tính sử dụng thị giác máy tính (phần 2)",
+      "title_en": "",
+      "advisor": "Trần Minh Triết"
+    },
+    {
+      "student": "Nguyễn Văn Giang",
+      "title_vi": "Nghiên cứu, triển khai môi trường tính toán đám mây và công cụ quản lý dựa trên OpenNebula",
+      "title_en": "",
+      "advisor": "Cao Đăng Tân, Trần Phước Quốc Hiền"
+    },
+    {
+      "student": "Phạm Thanh Toàn",
+      "title_vi": "Tìm kiếm theo từ khóa cho văn bản mã hóa",
+      "title_en": "",
+      "advisor": "Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Hoàng Hải Hưng",
+      "title_vi": "Ứng dụng GWT (Google Web Toolkit) để xây dựng ứng dụng quản trị tài sản",
+      "title_en": "",
+      "advisor": "Lâm Quang Vũ"
+    },
+    {
+      "student": "Nguyễn Hoàn",
+      "title_vi": "Nghiên cứu và phát triển hệ thống rút trích ontology từ web",
+      "title_en": "",
+      "advisor": "Trần Minh Triết"
+    },
+    {
+      "student": "Lê Vĩnh Hà",
+      "title_vi": "Tìm hiểu và xây dựng thử nghiệm hệ thống bảo vệ tính riêng tư trong ứng dụng dựa trên thông tin vị trí",
+      "title_en": "",
+      "advisor": "Lương Vĩ Minh"
+    },
+    {
+      "student": "Trần Quốc Tuấn",
+      "title_vi": "Tìm hiểu và chỉnh sửa thành phần quản lý tiến trình của phiên bản windows server 2003 thu gọn",
+      "title_en": "",
+      "advisor": "Phạm Tuấn Sơn"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "year": 2008,
+  "students": [
+    "Nguyễn Vũ Nhật Chương",
+    "Hà Nguyễn Khánh Luân",
+    "Ngô Đinh Quốc Trung",
+    "Trần Hoàng Chương",
+    "Bùi Trần Mạnh Hiếu",
+    "Nguyễn Công Thành",
+    "Lê Phú Khánh",
+    "Tô Ứng Vũ",
+    "Bùi Quốc Minh",
+    "Lê Trung Nghĩa",
+    "Trần Trọng Khiêm",
+    "Trần Thiện Văn",
+    "Tô Gia Diệu",
+    "Dư Nguyễn Anh Huy",
+    "Trần Hồng Thái",
+    "Lý Cẩm Tài",
+    "Bùi Văn Thạch",
+    "Thái Việt Khoa",
+    "Huỳnh Duy Khoa",
+    "Nguyễn Hải Minh",
+    "Lê Việt Duy Bình",
+    "Nguyễn Trọng Hoan",
+    "Trần Anh Quân",
+    "Trần Phú",
+    "Lê Thành Quang",
+    "Phan Nguyễn Hải",
+    "Võ Minh Hiền",
+    "Trần Vinh Kính",
+    "Lê Anh Tú",
+    "Nguyễn Vũ Nhật Minh",
+    "Trương Minh Quý",
+    "Lê Minh Hiếu",
+    "Lê Phi Thông",
+    "Lê Minh Đức",
+    "Nguyễn Minh Nhật",
+    "Trần Công Nghĩa",
+    "Hoàng Xuân Quang Nhật",
+    "Bùi Đắc Thịnh",
+    "Nguyễn Thanh Long",
+    "Lê Đắc Minh",
+    "Nguyễn Thanh Bình",
+    "Bùi Đại Quyền Hiệp",
+    "Nguyễn Trần Tuấn",
+    "Lê Đỗ Hoàng Nam",
+    "Trần Đức Anh",
+    "Cao Hồng Phước",
+    "Võ Đăng Nguyên",
+    "Thái Huệ Nghi",
+    "Mai Vĩnh Tường",
+    "Nguyễn Gia Luyện"
+  ],
+  "student_count": 50,
+  "theses": [
+    {
+      "student": "Nguyễn Vũ Nhật Chương",
+      "title_vi": "Tìm hiểu và xây dựng game trên Android",
+      "title_en": "",
+      "advisor": "Bùi Tấn Lộc"
+    },
+    {
+      "student": "Ngô Đinh Quốc Trung",
+      "title_vi": "Tìm hiểu và xây dựng framework game 2D trên Qt",
+      "title_en": "",
+      "advisor": "Bùi Tấn Lộc"
+    },
+    {
+      "student": "Bùi Trần Mạnh Hiếu",
+      "title_vi": "Nghiên cứu và phát triển framework game 3D trên nền tảng HTML5",
+      "title_en": "",
+      "advisor": "Lương Vĩ Minh\nNguyễn Đức Huy"
+    },
+    {
+      "student": "Lê Phú Khánh",
+      "title_vi": "Hệ thống thiết kế cảnh 3D với bề mặt tương tác sử dụng Kinect",
+      "title_en": "",
+      "advisor": "Trần Minh Triết\nNguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Bùi Quốc Minh",
+      "title_vi": "Nghiên cứu và phát triển một số hệ thống tương tác thông minh với thực tại tăng cường",
+      "title_en": "",
+      "advisor": "Trần Minh Triết\nNguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Trần Trọng Khiêm",
+      "title_vi": "Phát triển hệ thống phần mềm thiết kế và trình diễn cảnh 3D",
+      "title_en": "",
+      "advisor": "Đặng Bình Phương"
+    },
+    {
+      "student": "Tô Gia Diệu",
+      "title_vi": "Hệ thống hỗ trợ giao thông và chia sẻ thông tin địa điểm trên thiết bị di động khả định vị",
+      "title_en": "",
+      "advisor": "Đặng Bình Phương"
+    },
+    {
+      "student": "Trần Hồng Thái",
+      "title_vi": "Mô hình ngưỡng và ứng dụng trình chiếu nhóm",
+      "title_en": "",
+      "advisor": "Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Bùi Văn Thạch",
+      "title_vi": "Đảm bảo tính riêng tư và truy vấn hiệu quả trên mạng cảm ứng hai tầng không dây",
+      "title_en": "",
+      "advisor": "Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Thái Việt Khoa",
+      "title_vi": "Phát triển hệ thống phần mềm ghi nhận và biên tập vật thể 3D",
+      "title_en": "",
+      "advisor": "Trần Minh Triết\nNguyễn Khắc Huy"
+    },
+    {
+      "student": "Nguyễn Hải Minh",
+      "title_vi": "Xử lý song song với Hadoop và ứng dụng",
+      "title_en": "",
+      "advisor": "Lương Vĩ Minh"
+    },
+    {
+      "student": "Lê Việt Duy Bình",
+      "title_vi": "Tìm hiểu và xây dựng ứng dụng bản đồ trên Android",
+      "title_en": "",
+      "advisor": "Bùi Tấn Lộc"
+    },
+    {
+      "student": "Trần Anh Quân",
+      "title_vi": "Xây dựng ứng dụng tra cứu từ điển bằng camera trên điện thoại di động",
+      "title_en": "",
+      "advisor": "Đinh Điền"
+    },
+    {
+      "student": "Lê Thành Quang",
+      "title_vi": "Tìm hiểu về CMU Shinx và ứng dụng trong nhận dạng tiếng nói",
+      "title_en": "",
+      "advisor": "Đinh Điền"
+    },
+    {
+      "student": "Võ Minh Hiền",
+      "title_vi": "MiniVCL - bộ giải mã dịch máy thống kê trên thiết bị di động",
+      "title_en": "",
+      "advisor": "Đinh Điền"
+    },
+    {
+      "student": "Trần Vinh Kính",
+      "title_vi": "Nghiên cứu và xây dựng ứng dụng sử dụng cảm biến trên iPhone",
+      "title_en": "",
+      "advisor": "Đinh Bá Tiến \nNguyễn Lê Nguyên Ngữ"
+    },
+    {
+      "student": "Nguyễn Vũ Nhật Minh",
+      "title_vi": "Phát triển bộ công cụ lập trình nhúng cho hệ điều hành eCos, Embedded Linux và uClinux",
+      "title_en": "",
+      "advisor": "Trương Thiên Đỉnh"
+    },
+    {
+      "student": "Lê Minh Hiếu",
+      "title_vi": "Thiết kế firmware cho thiết bị đọc thẻ thông minh không tiếp xúc Mifare",
+      "title_en": "",
+      "advisor": "Nguyễn Tri Tuấn\nChung Quang Khánh"
+    },
+    {
+      "student": "Lê Phi Thông",
+      "title_vi": "Mô phỏng chuyển động bàn tay bằng mô hình 3D trong thời gian thực thông qua các đặc điểm hình học của bàn tay",
+      "title_en": "",
+      "advisor": "Trần Thái Sơn"
+    },
+    {
+      "student": "Nguyễn Minh Nhật",
+      "title_vi": "Xây dựng ứng dụng dựa trên vị trí: Hệ thống phản ứng nhanh",
+      "title_en": "",
+      "advisor": "Nguyễn Tuấn Nam"
+    },
+    {
+      "student": "Hoàng Xuân Quang Nhật",
+      "title_vi": "Hệ thống quản lý an ninh dữ liệu cho thiết bị di động",
+      "title_en": "",
+      "advisor": "Nguyễn Tuấn Nam"
+    },
+    {
+      "student": "Bùi Đắc Thịnh",
+      "title_vi": "Nghiên cứu xây dựng và thử nghiệm một nền tảng cho ứng dụng dịch vụ trí tuệ kinh doanh trên đám mây mã nguồn mở (phần 1)",
+      "title_en": "",
+      "advisor": "Nguyễn Trần Minh Thư"
+    },
+    {
+      "student": "Lê Đắc Minh",
+      "title_vi": "Nghiên cứu xây dựng và thử nghiệm một nền tảng cho ứng dụng dịch vụ trí tuệ kinh doanh trên đám mây mã nguồn mở (phần 2)",
+      "title_en": "",
+      "advisor": "Nguyễn Trần Minh Thư"
+    },
+    {
+      "student": "Nguyễn Thanh Bình",
+      "title_vi": "Nghiên cứu và thử nghiệm mô hình truy vấn liên tục áp dụng cho ứng dụng dịch vụ dựa trên vị trí",
+      "title_en": "",
+      "advisor": "Nguyễn Trần Minh Thư"
+    },
+    {
+      "student": "Nguyễn Trần Tuấn",
+      "title_vi": "Phát triển hệ thống ERP mã nguồn mở phân hệ CRM ứng dụng vào trung tâm đào tạo",
+      "title_en": "",
+      "advisor": "Đồng Thị Bích Thủy"
+    },
+    {
+      "student": "Lê Đỗ Hoàng Nam",
+      "title_vi": "Phân loại văn bản dựa trên mô hình kết hợp giữa nội dung và thông tin liên kết giữa các văn bản",
+      "title_en": "",
+      "advisor": "Trần Thái Sơn\nTrần Minh Triết"
+    },
+    {
+      "student": "Trần Đức Anh",
+      "title_vi": "Phát triển hệ thống tổng hợp tiếng nói tiếng Việt trên nền Android",
+      "title_en": "",
+      "advisor": "Vũ Hải Quân"
+    },
+    {
+      "student": "Cao Hồng Phước",
+      "title_vi": "Nghiên cứu và thử nghiệm phương pháp so sánh băng thông hiện hành của các đường truyền",
+      "title_en": "",
+      "advisor": "Trần Trung Dũng"
+    },
+    {
+      "student": "Thái Huệ Nghi",
+      "title_vi": "Tự động rút trích và tổng hợp thông tin sản phẩm trên web",
+      "title_en": "",
+      "advisor": "Nguyễn Huy Khánh"
+    },
+    {
+      "student": "Nguyễn Gia Luyện",
+      "title_vi": "Tìm hiểu các phương pháp bảo vệ tính riêng tư dữ liệu cho dịch vụ gửi CSDL ở nhà cung cấp và cài đặt thử nghiệm",
+      "title_en": "",
+      "advisor": "Phạm Thị Bạch Huệ"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "year": 2022,
+  "students": [
+    "Ngô Văn Đạt",
+    "Trương Thịnh Vượng",
+    "Vương Nhật Hiển",
+    "Vương Nhật Tín",
+    "Nguyễn Chí Công",
+    "Nguyễn Hưng",
+    "Nguyễn Quang Thịnh",
+    "Đỗ Duy Khang",
+    "Trần Quốc Duy",
+    "Võ Anh Tuấn",
+    "Tạ Chí Thành Danh",
+    "Nguyễn Thanh Tuấn",
+    "Lê Thục Uyên",
+    "Nguyễn Cao Cường",
+    "Phạm Xuân Nguyên",
+    "Nguyễn Long Bảo",
+    "Lê Quang Khải",
+    "Thái Văn Mạnh",
+    "Nguyễn Kiều Đức Vĩnh Thiên",
+    "Trần Như Anh Kiệt",
+    "Song Đồng Gia Phúc",
+    "Nguyễn Minh Lợi",
+    "Lê Xuân Vũ",
+    "Phan Văn Phúc",
+    "Phạm Minh Tân",
+    "Huỳnh Văn Hiếu",
+    "Phan Đức Mạnh",
+    "Đàm Văn Lâm",
+    "Nguyễn Phúc",
+    "Trần Ngọc Đại",
+    "Huỳnh Thanh Tường",
+    "Nguyễn Quang Thắng",
+    "Mai Văn Tuấn Kiệt",
+    "Trần Hữu Phúc",
+    "Nguyễn Công Long",
+    "Nguyễn Văn Quý"
+  ],
+  "student_count": 36,
+  "theses": [
+    {
+      "student": "Ngô Văn Đạt",
+      "title_vi": "Mô hình lọc cộng tác dựa trên lân cận cho hệ thống gợi ý có tích hợp ngữ cảnh",
+      "title_en": "",
+      "advisor": "ThS. Hồ Thị Hoàng Vy\nPGS.TS. Lê Nguyễn Hoài Nam"
+    },
+    {
+      "student": "Vương Nhật Hiển",
+      "title_vi": "Hệ thống gợi ý môn học tự chọn (có tính giải thích) cho sinh viên Đại học",
+      "title_en": "",
+      "advisor": "TS. Lê Trung Hoàng"
+    },
+    {
+      "student": "Nguyễn Chí Công",
+      "title_vi": "Xây dựng hệ thống kiểm thử tự động ứng dụng Web",
+      "title_en": "Quantum-Safe Secure Aggregation System with Input Verification",
+      "advisor": "PGS.TS. Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Nguyễn Quang Thịnh",
+      "title_vi": "Tạo sinh nét vẽ phác thảo không cần huấn luyện",
+      "title_en": "Generative Al for Interactive Storytelling",
+      "advisor": "TS. Lê Trung Nghĩa"
+    },
+    {
+      "student": "Trần Quốc Duy",
+      "title_vi": "Giải thích và tạo sinh hình ảnh sáng tạo hỗ trợ bởi AI",
+      "title_en": "Training-Free Sketch Generation",
+      "advisor": "TS. Lê Khánh Duy\nTS. Lê Trung Nghĩa"
+    },
+    {
+      "student": "Tạ Chí Thành Danh",
+      "title_vi": "Xây dựng hệ thống tăng cường nhận thức về an toàn số cho nhân viên doanh nghiệp – Phân hệ mô phỏng và đánh giá tấn công phishing",
+      "title_en": "Secured Multimedia System for Safeguarded Image Generation",
+      "advisor": "ThS. Nguyễn Huy Khánh\nThS. Trần Anh Duy"
+    },
+    {
+      "student": "Lê Thục Uyên",
+      "title_vi": "Tích hợp học nhân quả vào mô hình ngôn ngữ lớn dựa trên sở thích con người",
+      "title_en": "",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Cao Cường",
+      "title_vi": "Nghiên cứu kỹ thuật thích ứng miền không có dữ liệu nguồn",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Ngọc Thảo"
+    },
+    {
+      "student": "Nguyễn Long Bảo",
+      "title_vi": "Tạo sinh hình ảnh dựa trên tác tử",
+      "title_en": "Smart Interaction with Visual Understanding and Interpretation",
+      "advisor": "TS. Lê Trung Nghĩa\nPGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Thái Văn Mạnh",
+      "title_vi": "Cải tiến việc truy vấn thông tin đa phương tiện với khả năng hiểu ngữ cảnh",
+      "title_en": "Automated Extraction of Attack Surfaces and Threat Elicitation from Source Code for AI-based Systems",
+      "advisor": "PGS.TS. Trần Minh Triết\nTS. Ninh Văn Tú"
+    },
+    {
+      "student": "Trần Như Anh Kiệt",
+      "title_vi": "Suy luận ngữ cảnh tường minh cho định vị và đặt vật thể trong ảnh",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Huỳnh Viết Thám"
+    },
+    {
+      "student": "Nguyễn Minh Lợi",
+      "title_vi": "Trí tuệ nhân tạo tạo sinh cho kể chuyện tương tác",
+      "title_en": "Agentic Image Generation",
+      "advisor": "TS. Lê Trung Nghĩa\nPGS.TS. Nguyễn Văn Tâm"
+    },
+    {
+      "student": "Phan Văn Phúc",
+      "title_vi": "Phân tích hình ảnh sự kiện dựa trên khai thác tri thức đa phương tiện",
+      "title_en": "",
+      "advisor": "TS. Lê Khánh Duy"
+    },
+    {
+      "student": "Huỳnh Văn Hiếu",
+      "title_vi": "Hỗ trợ kể chuyện trực quan bằng AI thông qua kỹ thuật tạo sinh dữ liệu đa phương tiện có khả năng điều khiển",
+      "title_en": "",
+      "advisor": "TS. Lê Khánh Duy"
+    },
+    {
+      "student": "Đàm Văn Lâm",
+      "title_vi": "Giao thức Tổng hợp Bảo mật Đa vòng Nhẹ cho Quy mô Lớn",
+      "title_en": "Generative AI for Extended Reality",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Nguyễn Phúc",
+      "title_vi": "Mô hình phát hiện tin giả dựa trên cơ chế sinh truy vấn tự động",
+      "title_en": "Enhancing Multimedia Retrieval with Context Understanding",
+      "advisor": "TS. Lê Thanh Tùng"
+    },
+    {
+      "student": "Trần Ngọc Đại",
+      "title_vi": "Hệ thống đa phương tiện cho tạo sinh ảnh an toàn",
+      "title_en": "Aesthetic-Aware Image Composition",
+      "advisor": "TS. Trương Toàn Thịnh"
+    },
+    {
+      "student": "Nguyễn Quang Thắng",
+      "title_vi": "Tự động trích xuất bề mặt tấn công và khai thác mối đe dọa bảo mật từ mã nguồn cho hệ thống dựa trên AI",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Trần Anh Duy"
+    },
+    {
+      "student": "Mai Văn Tuấn Kiệt",
+      "title_vi": "Ước lượng độ đóng góp trong Federated Learning",
+      "title_en": "Event-based Multimedia Retrieval",
+      "advisor": "TS. Trần Trung Dũng"
+    },
+    {
+      "student": "Nguyễn Công Long",
+      "title_vi": "Tìm hiểu và xây dựng blockchain định hướng cho doanh nghiệp",
+      "title_en": "",
+      "advisor": "TS. Trần Trung Dũng"
+    }
+  ]
+}

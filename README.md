@@ -11,3 +11,10 @@ Note: cohort counts 2002–2022 are based on the supplied workbook data; 2023–
 - Refined hero typography.
 - “Khoa Công nghệ Thông tin” stays on a single line on normal desktop/tablet widths.
 - Mobile remains responsive and may wrap naturally on narrow screens.
+
+## v5 — cohort data
+- Generated cohort pages for CNTN 2002–2022 from the supplied thesis workbook.
+- Public pages intentionally omit student IDs and other administrative/private fields.
+- Each cohort has a JSON data file under `data/cohorts/`.
+- 2023–2026 pages are prepared as placeholders pending confirmed public data.
+- Counts on these pages mean records found in the thesis workbook, not necessarily original enrollment.

@@ -1,0 +1,196 @@
+{
+  "year": 2021,
+  "students": [
+    "Huỳnh Long",
+    "Nguyễn Ngọc Thiên Ân",
+    "Nguyễn Lê Hải Sơn",
+    "Nguyễn Thanh Hùng Cường",
+    "Đỗ Thanh Nghị",
+    "Ngô Đức Nghĩa",
+    "Võ Trung Hoàng Hưng",
+    "Tạ Công Hoàng",
+    "Lê Thành Đạt",
+    "Võ Duy Tân",
+    "Nguyễn Tuấn Phong",
+    "Trần kỳ Thanh",
+    "Nguyễn Hà Hạnh Giang",
+    "Cao Quảng Phát",
+    "Ninh Quốc Bảo",
+    "Nguyễn Thị Trúc Vy",
+    "Nguyễn Xuân Hiếu",
+    "Nguyễn Tiến Thành",
+    "Phan Gia Huy",
+    "Nguyễn Đặng Tường Duy",
+    "Tô Hiển Vinh",
+    "Lê Nguyễn Phương Thùy",
+    "Nguyễn Hải Chấn",
+    "Đỗ Khải Hưng",
+    "Võ Hoàng Hoa Viên",
+    "Nguyễn Quốc Trung",
+    "Dương Minh Lợi",
+    "Huỳnh Minh Đức",
+    "Hồ Duy Khang",
+    "Hồ Lê Minh Quân",
+    "Nguyễn Minh Nhật",
+    "Trần Trọng Nghĩa",
+    "Nguyễn Duy Khang",
+    "Tô Tấn Hiệp",
+    "Huỳnh Công Triết",
+    "Lê Hình Nhựt Thanh",
+    "Hoàng Thế Trung",
+    "Lê Long Trường Thịnh",
+    "Đỗ Hữu Huy Hoàng",
+    "Lê Thị Minh Phương",
+    "Phạm Long Khánh",
+    "Phan Văn Hoàng",
+    "Phan Lê Đắc Phú",
+    "Trần Nam Khánh"
+  ],
+  "student_count": 44,
+  "theses": [
+    {
+      "student": "Huỳnh Long",
+      "title_vi": "Khảo sát và đánh giá phương pháp phát hiện giọng nói giả mạo cho tiếng Việt",
+      "title_en": "",
+      "advisor": "TS. Ngô Minh Nhựt"
+    },
+    {
+      "student": "Nguyễn Lê Hải Sơn",
+      "title_vi": "Nghiên cứu thực nghiệm các mô hình hình nhận diện âm thanh giả",
+      "title_en": "",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc\nCô Hạnh?"
+    },
+    {
+      "student": "Đỗ Thanh Nghị",
+      "title_vi": "Phát triển hệ thống tập trung hóa gợi ý YouTube dựa trên LLM hỗ trợ tự học",
+      "title_en": "",
+      "advisor": "ThS. Ngô Ngọc Đăng Khoa"
+    },
+    {
+      "student": "Võ Trung Hoàng Hưng",
+      "title_vi": "Nghiên cứu và thử nghiệm bài toán hỏi đáp nghề nghiệp cho ngành CNTT sử dụng Hybrid RAG",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Trần Minh Thư"
+    },
+    {
+      "student": "Tạ Công Hoàng",
+      "title_vi": "Mã đồng cấu cho các tính toán xấp xỉ",
+      "title_en": "",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Lê Thành Đạt",
+      "title_vi": "Cải thiện mô hình hỏi đáp trên đồ thị tri thức thông qua tương tác đa lượt",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Hồng Bửu Long"
+    },
+    {
+      "student": "Nguyễn Tuấn Phong",
+      "title_vi": "Cải tiến dịch máy mạng nơ-ron Anh-Việt sử dụng cơ chế chú ý có chọn lọc",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Hồng Bửu Long"
+    },
+    {
+      "student": "Nguyễn Hà Hạnh Giang",
+      "title_vi": "Nghiên cứu phương pháp phát hiện sai sót trong ngữ liệu huấn luyện mô hình ngôn ngữ",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Hồng Bửu Long"
+    },
+    {
+      "student": "Cao Quảng Phát",
+      "title_vi": "Mã Hóa Dựa Trên Thuộc Tính với Chính Sách Trên Bản Mã có Khả Năng Xác Minh Toàn Diện",
+      "title_en": "",
+      "advisor": "TS. Trần Trung Dũng"
+    },
+    {
+      "student": "Nguyễn Thị Trúc Vy",
+      "title_vi": "Khảo sát và xây dựng thư viện cho hệ chữ ký ngưỡng trên elliptic curve",
+      "title_en": "",
+      "advisor": "TS. Trần Trung Dũng\nThS. Ngô Đình Hy"
+    },
+    {
+      "student": "Nguyễn Tiến Thành",
+      "title_vi": "Xây dựng luật giải thích cục bộ cho mạng nơ-ron đồ thị",
+      "title_en": "",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Đặng Tường Duy",
+      "title_vi": "Kiểm định độ hiệu quả của Bỏ học Đồ thị bằng Trí tuệ nhân tạo giải thích được.",
+      "title_en": "",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Lê Nguyễn Phương Thùy",
+      "title_vi": "Ghi chú lâm sàng đáng tin cậy với mô hình ngôn ngữ lớn",
+      "title_en": "",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Đỗ Khải Hưng",
+      "title_vi": "Giải thích trực quan về quy trình phản thực trong xử lý ảnh",
+      "title_en": "",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Quốc Trung",
+      "title_vi": "Nhúng đồ thị tri thức cho dự đoán liên kết nơ-ron ký hiệu",
+      "title_en": "",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Dương Minh Lợi",
+      "title_vi": "Phương pháp học máy liên tục để thích nghi sự thay đổi của dữ liệu",
+      "title_en": "",
+      "advisor": "TS. Trần Thái Sơn"
+    },
+    {
+      "student": "Hồ Duy Khang",
+      "title_vi": "Cải thiện truy vấn đa phương tiện với siêu dữ liệu trực quan cấp cao có cấu trúc trong bài toán truy xuất thông tin video và thông tin nhật ký đời sống",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\nTS. Ninh Văn Tú (Ireland)"
+    },
+    {
+      "student": "Nguyễn Minh Nhật",
+      "title_vi": "Hệ thống multimedia an toàn",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Đỗ Trọng Lễ"
+    },
+    {
+      "student": "Nguyễn Duy Khang",
+      "title_vi": "Phát triển hệ thống KOL ảo sử dụng trí tuệ nhân tạo tạo sinh",
+      "title_en": "",
+      "advisor": "TS. Lê Trung Nghĩa"
+    },
+    {
+      "student": "Huỳnh Công Triết",
+      "title_vi": "Hỗ trợ phát triển môi trường tương tác thông minh 3 chiều với Generative AI.",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Huỳnh Viết Thám"
+    },
+    {
+      "student": "Hoàng Thế Trung",
+      "title_vi": "Hệ thống gán nhãn dữ liệu y tế và khả năng trợ giúp thông minh",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Đỗ Trọng Lễ"
+    },
+    {
+      "student": "Đỗ Hữu Huy Hoàng",
+      "title_vi": "Giải pháp thực tại ảo thông minh hỗ trợ học kỹ năng thủ công",
+      "title_en": "",
+      "advisor": "TS. Lê Khánh Duy"
+    },
+    {
+      "student": "Phạm Long Khánh",
+      "title_vi": "Phát hiện tin giả sử dụng mô hình ngôn ngữ lớn (LLM)",
+      "title_en": "",
+      "advisor": "ThS. Trần Anh Duy\nTS. Đào Minh Sơn (NICT)"
+    },
+    {
+      "student": "Phan Lê Đắc Phú",
+      "title_vi": "Ứng dụng Thị giác Máy tính hỗ trợ chẩn đoán hình ảnh y khoa",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Nguyễn Hải Đăng"
+    }
+  ]
+}

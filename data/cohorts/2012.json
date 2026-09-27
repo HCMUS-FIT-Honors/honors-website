@@ -1,0 +1,200 @@
+{
+  "year": 2012,
+  "students": [
+    "Nguyễn Ngọc Tùng",
+    "Lê Nguyên Hưng",
+    "Nguyễn Đình Luận",
+    "Lê Quang Định",
+    "Nguyễn Duy Thông",
+    "Bùi Huy Thông",
+    "Trần Ngọc Đạt Thành",
+    "Đào Công Tân",
+    "Đỗ Ngọc Hải Đăng",
+    "Phạm Trần Anh Khoa",
+    "Lê Trần Lộc",
+    "Nguyễn Thành Đạt",
+    "Trương Thanh Sơn",
+    "Trang Trọng Thức",
+    "Tô Minh Tín",
+    "Phạm Bá Cường Quốc",
+    "Trần Bá Hiển",
+    "Đào Văn Hậu",
+    "Hồ Minh Tú",
+    "Phó Ngọc Đăng Khoa",
+    "Vũ Đức Tài",
+    "Chiêm Duy Bảo",
+    "Nguyễn Minh Trí",
+    "Nguyễn Minh Lưu",
+    "Đoàn Phúc Tôn",
+    "Hoàng Trọng Nhân",
+    "Lý Ngọc Minh",
+    "Hồ Xuân Vinh",
+    "Lê Thanh Tùng",
+    "Nguyễn Ngọc Gia Hy",
+    "Đinh Công Toàn",
+    "Lê Thành Tâm",
+    "Huỳnh Thanh Tâm",
+    "Hà Vĩnh Quang",
+    "Nguyễn Khánh",
+    "Hoàng Văn Ngọc",
+    "Nguyễn Văn Tường",
+    "Nguyễn Quốc Hưng",
+    "Trần Đức Trí",
+    "Phạm Duy Tâm",
+    "Trần Minh Hùng",
+    "Trần Thy Thy"
+  ],
+  "student_count": 42,
+  "theses": [
+    {
+      "student": "Nguyễn Ngọc Tùng",
+      "title_vi": "Xây dựng hệ thống thương mại điện tử C2C trực quan với thực tại tăng cường",
+      "title_en": "",
+      "advisor": "ThS. Ngô Ngọc Đăng Khoa"
+    },
+    {
+      "student": "Nguyễn Đình Luận",
+      "title_vi": "Phát hiện, nhận biết mặt người và ứng dụng video thông minh trên thiết bị di động",
+      "title_en": "",
+      "advisor": "PGS. TS. Trần Minh Triết\n ThS. Nguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Nguyễn Duy Thông",
+      "title_vi": "Ứng dụng một số phương pháp tách lớp hình ảnh để loại bỏ phản chiếu",
+      "title_en": "",
+      "advisor": "TS. Đặng Nguyễn Đức Tiến"
+    },
+    {
+      "student": "Trần Ngọc Đạt Thành",
+      "title_vi": "Tương tác đa người dùng trong môi trường thực tại ảo",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\n ThS. Nguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Đỗ Ngọc Hải Đăng",
+      "title_vi": "Giám sát và bảo vệ người dùng ở mức độ hệ thống trên môi trường Linux",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Sơn Hoàng Quốc"
+    },
+    {
+      "student": "Lê Trần Lộc",
+      "title_vi": "Hệ thống hỗ trợ tập luyện thể dục với thiết bị di động và đồng hồ thông minh",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\n ThS. Lương Vĩ Minh"
+    },
+    {
+      "student": "Trương Thanh Sơn",
+      "title_vi": "Xây dựng lược đồ xác thực sử dụng đặc trưng sinh trắc",
+      "title_en": "",
+      "advisor": "PGS. TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Trang Trọng Thức",
+      "title_vi": "Cơ sở lý thuyết dàn và ứng dụng trong mật mã",
+      "title_en": "",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Tô Minh Tín",
+      "title_vi": "Mã kiểm tra chẵn lẻ mật độ thấp và ứng dụng của nó trong việc sàng lọc thư viện DNA",
+      "title_en": "",
+      "advisor": "PGS. TS. Nguyễn Đình Thúc\n CN. Bùi Văn Thạch"
+    },
+    {
+      "student": "Phạm Bá Cường Quốc",
+      "title_vi": "Tự động mô tả nội dung ảnh bằng phương pháp học sâu",
+      "title_en": "",
+      "advisor": "ThS. Trần Trung Kiên"
+    },
+    {
+      "student": "Đào Văn Hậu",
+      "title_vi": "Hệ thống thu thập và phân tích ý kiến người dùng từ các trang mạng",
+      "title_en": "",
+      "advisor": "ThS. Nguyễn Tiến Huy"
+    },
+    {
+      "student": "Phó Ngọc Đăng Khoa",
+      "title_vi": "Học ngưỡng online trong mô hình Cascade DPM cho bài toán dò tìm đối tượng",
+      "title_en": "",
+      "advisor": "ThS. Vũ Thanh Hưng"
+    },
+    {
+      "student": "Vũ Đức Tài",
+      "title_vi": "Tự động chơi game bằng phương pháp học tăng cường kết hợp học sâu",
+      "title_en": "",
+      "advisor": "ThS. Trần Trung Kiên"
+    },
+    {
+      "student": "Nguyễn Minh Trí",
+      "title_vi": "Super resolution trên ảnh RGB-D",
+      "title_en": "",
+      "advisor": "PGS.TS. Lý Quốc Ngọc"
+    },
+    {
+      "student": "Đoàn Phúc Tôn",
+      "title_vi": "Phân tách các yêu tố ẩn trong mô hình phát sinh nhiều tầng ẩn",
+      "title_en": "",
+      "advisor": "ThS. Vũ Thanh Hưng"
+    },
+    {
+      "student": "Hoàng Trọng Nhân",
+      "title_vi": "Tăng cường khả năng hiểu ảnh trong bài toán truy vấn ảnh dựa vào tag",
+      "title_en": "",
+      "advisor": "PGS.TS. Lý Quốc Ngọc\n ThS. Võ Hoài Việt"
+    },
+    {
+      "student": "Lý Ngọc Minh",
+      "title_vi": "Chiếu nhãn ngữ nghĩa tiếng Anh sang tiếng Việt trong song ngữ Anh-Việt",
+      "title_en": "",
+      "advisor": "PGS.TS. Đinh Điền"
+    },
+    {
+      "student": "Lê Thanh Tùng",
+      "title_vi": "Áp dụng mô hình học sâu trong\n tóm tắt văn bản tự động",
+      "title_en": "",
+      "advisor": "PGS.TS. Đinh Điền\n CN. Lương Việt Thắng"
+    },
+    {
+      "student": "Đinh Công Toàn",
+      "title_vi": "Tìm hiểu một số nền tảng (Plaftform) trong mạng liên kết các sự vật (Internet of Things - IoTs) và xây dựng ứng dụng minh hoạ",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Trần Minh Thư"
+    },
+    {
+      "student": "Lê Thành Tâm",
+      "title_vi": "Ứng dụng định vị người dùng cho trung tâm thương mại",
+      "title_en": "",
+      "advisor": "TS. Đinh Bá Tiến"
+    },
+    {
+      "student": "Hà Vĩnh Quang",
+      "title_vi": "Ứng dụng thực tế ảo trên thiết bị di động",
+      "title_en": "",
+      "advisor": "TS. Đinh Bá Tiến"
+    },
+    {
+      "student": "Hoàng Văn Ngọc",
+      "title_vi": "Mạng xã hội chia sẻ địa điểm trên thiết bị Android",
+      "title_en": "",
+      "advisor": "TS. Đinh Bá Tiến"
+    },
+    {
+      "student": "Nguyễn Quốc Hưng",
+      "title_vi": "Ứng dụng học tập ngoại ngoại ngữ tương tác trên android",
+      "title_en": "",
+      "advisor": "TS. Đinh Bá Tiến"
+    },
+    {
+      "student": "Phạm Duy Tâm",
+      "title_vi": "Xây dựng độ đo tính dễ đọc (readability) cho văn bản tiếng Việt",
+      "title_en": "",
+      "advisor": "PGS.TS. Đinh Điền\nThS. Lương An Vinh"
+    },
+    {
+      "student": "Trần Thy Thy",
+      "title_vi": "Áp dụng mạng nơ-ron cho bài toán phân tích quan điểm",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Thị Hồng Nhung\nTS. Lê Phong"
+    }
+  ]
+}

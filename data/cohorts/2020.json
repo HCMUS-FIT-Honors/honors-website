@@ -1,0 +1,276 @@
+{
+  "year": 2020,
+  "students": [
+    "Nguyễn Hoàng Khang",
+    "Nguyễn Trọng Hiếu",
+    "Lưu Nguyễn Tiến Anh",
+    "Nguyễn Văn Dũng",
+    "Nguyễn Kiều Minh Tâm",
+    "Lê Minh Trí",
+    "Dũ Quốc Huy",
+    "Lê Ngọc Đức",
+    "Nguyễn Mậu Trọng Hiếu",
+    "Phù Thị Kim Trang",
+    "Trịnh Quốc Huy",
+    "Võ Thị Phước Thảo",
+    "Trà Như Khuyên",
+    "Nguyễn Minh Tâm",
+    "Huỳnh Lê An",
+    "Nguyễn Thiên An",
+    "Nguyễn Quang Huy",
+    "Lê Hoài Phong",
+    "Từ Văn Quí",
+    "Nguyễn Hoàng Trung",
+    "Hoàng Trọng Vũ",
+    "Nguyễn Quang Bình",
+    "Nguyễn Minh Kha",
+    "Đỗ Trung Hiếu",
+    "Nguyễn Văn Lộc",
+    "Nguyễn Bảo Tín",
+    "Phạm Thị Quỳnh Như",
+    "Phạm Hữu Phúc",
+    "Vương Gia Huy",
+    "Hồ Văn Sơn",
+    "Phan Quốc Kỳ",
+    "Nguyễn Phạm Bá Duy",
+    "Nguyễn Đức Mạnh",
+    "Nguyễn Kông Đại",
+    "Lê Thị Minh Hiền",
+    "Lê Quang Trí",
+    "Huỳnh Đức Nhâm",
+    "Dương Lê Đình Thuận",
+    "Trần Thiên Tường",
+    "Lê Hữu Trọng",
+    "Trần Tiến Văn",
+    "Phan Trần Khanh",
+    "Trần Bảo Anh",
+    "Nguyễn Anh Khoa",
+    "Võ Văn Tài",
+    "Lê Hải Duy",
+    "Trần Kiều Minh Lâm",
+    "Trần Ngọc Đô",
+    "Huỳnh Minh Tuấn",
+    "Nhan Gia Khâm",
+    "Nguyễn Hoàng Lâm",
+    "Ngô Phúc Hội",
+    "Nguyễn Thái Chung",
+    "Nguyễn Nhật Tiến",
+    "Bùi Quốc Trung",
+    "Lương Thanh Hoàng Phú",
+    "Vũ Văn Thái",
+    "Lý Hoàng Khải",
+    "Nguyễn Văn Hưng",
+    "Phạm Phước Sang",
+    "Trần Hữu Thiên",
+    "Võ Trọng Nghĩa",
+    "Nguyễn Phạm Nhật Huy",
+    "Nguyễn Lê Duy"
+  ],
+  "student_count": 64,
+  "theses": [
+    {
+      "student": "Nguyễn Hoàng Khang",
+      "title_vi": "Một hướng tiếp cận của sàn giao dịch phi tập trung",
+      "title_en": "Decentralized Exchange: An Approach",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Lưu Nguyễn Tiến Anh",
+      "title_vi": "Xây dựng ứng dụng hỗ trợ phát sinh ảnh minh hoạ cho mẫu truyện ngắn",
+      "title_en": "Development of an application supporting the generation of illustrations for short story",
+      "advisor": "ThS. Ngô Ngọc Đăng Khoa"
+    },
+    {
+      "student": "Nguyễn Kiều Minh Tâm",
+      "title_vi": "Thị trường tự động cảm hứng từ sổ đặt hàng cho sàn giao dịch phi tập trung trên Blockchain",
+      "title_en": "Order-Book Inspired Automated Market Making for Decentralized Exchanges on Blockchain",
+      "advisor": "PGS.TS Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Lê Minh Trí",
+      "title_vi": "Phát triển phân hệ quản lý đề tài doanh nghiệp trong ĐHQG-HCM",
+      "title_en": "Developing a subsystem for externally sponsored research projects in VNU-HCM",
+      "advisor": "PGS. TS. Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Lê Ngọc Đức",
+      "title_vi": "Mô hình tự giải thích dự đoán chẩn đoán trong y khoa",
+      "title_en": "",
+      "advisor": "GS.TS Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Mậu Trọng Hiếu",
+      "title_vi": "Kết hợp đặc trưng cục bộ và toàn cục với học tương phản và giám sát sâu cho bài toán phân đoạn khối u",
+      "title_en": "Deep Orthogonal Fusion of Local and Global Features Combined with a Contrastive Learning and Deep Supervision Approach for Polyp Segmentation",
+      "advisor": "ThS. Nguyễn Hải Đăng\nPGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Trịnh Quốc Huy",
+      "title_vi": "Cải tiến tái định danh người bằng phương pháp hướng dẫn dáng đi thông qua giám sát sâu",
+      "title_en": "Enhancing Person Re-Identification via the guiding of Pose information through Deep Supervision",
+      "advisor": "ThS. Nguyễn Hải Đăng"
+    },
+    {
+      "student": "Trà Như Khuyên",
+      "title_vi": "Phương pháp xây dựng hệ trao đổi dữ liệu số đảm bảo tính riêng tư trên mô hình Web3",
+      "title_en": "Privacy-preserving Media Exchange Decentralized Web3 Methods",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Huỳnh Lê An",
+      "title_vi": "Suy luận trên đồ thị tri thức khả diễn dựa trên Mạng nơron đồ thị",
+      "title_en": "Explainable Temporal Knowledge Graph Reasoning based on Graph Neural Network",
+      "advisor": "ThS. Lê Ngọc Thành"
+    },
+    {
+      "student": "Nguyễn Quang Huy",
+      "title_vi": "Áp dụng thuật toán Meta-learning cho bài toán tóm tắt mã nguồn và giải thích kết quả",
+      "title_en": "Using Meta-learning for Code Summarization and explaining the results",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Từ Văn Quí",
+      "title_vi": "Nghiên cứu các phương pháp tinh chỉnh gợi ý cho các mô hình ngôn ngữ lớn",
+      "title_en": "Exploring methods for Prompt-Tuning in large Language Models",
+      "advisor": "PGS.TS. Đinh Điền\nTS. Nguyễn Hồng Bửu Long"
+    },
+    {
+      "student": "Hoàng Trọng Vũ",
+      "title_vi": "Trí tuệ nhân tạo tạo sinh cho hoạt động sáng tạo của con người",
+      "title_en": "Generative AI for Human Creativity",
+      "advisor": "TS. Lê Trung Nghĩa\nPGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Nguyễn Minh Kha",
+      "title_vi": "Hệ thống giám sát trẻ sơ sinh và cảnh báo rủi ro",
+      "title_en": "Infant Monitoring and Risk Alert System",
+      "advisor": "TS. Lê Trung Nghĩa"
+    },
+    {
+      "student": "Nguyễn Văn Lộc",
+      "title_vi": "Phân tích và phát hiện tin giả",
+      "title_en": "Fake News Analysis and Detection",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Đỗ Trọng Lễ"
+    },
+    {
+      "student": "Phạm Thị Quỳnh Như",
+      "title_vi": "Xây dựng hệ thống hỏi đáp y khoa trên ảnh chụp X-quang",
+      "title_en": "Medical VQA system for radiographs",
+      "advisor": "PGS.TS. Lý Quốc Ngọc"
+    },
+    {
+      "student": "Vương Gia Huy",
+      "title_vi": "Tăng cường Hệ thống truy vấn dữ liệu nhật ký cuộc sống với Bộ phân tích truy vấn nâng cao sử dụng LLM",
+      "title_en": "Empowering Lifelog Retrieval System with Enhanced Query Parser using LLM",
+      "advisor": "TS. Ninh Văn Tú\nPGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Phan Quốc Kỳ",
+      "title_vi": "Nghiên cứu tính khả thi tạo asset trên nền Bitcoin (Taproot Asset)",
+      "title_en": "",
+      "advisor": "TS. Trần Trung Dũng"
+    },
+    {
+      "student": "Nguyễn Đức Mạnh",
+      "title_vi": "Các cuộc tấn công trích xuất mô hình được hướng dẫn bởi thông tin giải thích từ mô hình.",
+      "title_en": "Explanation leaks: Explanation-guided model extraction attacks",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Kông Đại",
+      "title_vi": "Nghiên cứu mô hình C4 và xây dựng ứng dụng minh họa",
+      "title_en": "",
+      "advisor": "ThS. Nguyễn Văn Khiết\nThầy Nguyễn Đức Huy"
+    },
+    {
+      "student": "Lê Quang Trí",
+      "title_vi": "Nghiên cứu kỹ thuật dịch chuyển cho các ngữ cảnh di chuyển thay đổi độ cao trong thực tại ảo",
+      "title_en": "Locomotion technique for height-changing navigation in VR",
+      "advisor": "TS. Lê Khánh Duy\nTS. Trần Quang Tánh"
+    },
+    {
+      "student": "Dương Lê Đình Thuận",
+      "title_vi": "Giải pháp thực tại hỗn hợp cho lớp học kết hợp",
+      "title_en": "Mixed reality system for hybrid classroom",
+      "advisor": "TS. Lê Khánh Duy"
+    },
+    {
+      "student": "Lê Hữu Trọng",
+      "title_vi": "Hệ thống gợi ý thời gian thực cho cá nhân hoá lộ trình học",
+      "title_en": "Realtime Recommendation System For Personal Learning Path",
+      "advisor": "TS. Nguyễn Trần Minh Thư"
+    },
+    {
+      "student": "Phan Trần Khanh",
+      "title_vi": "Phần mềm thông minh hỗ trợ quản lý doanh nghiệp vừa và nhỏ",
+      "title_en": "Smart SMEs Management Software",
+      "advisor": "TS. Đinh Bá Tiến"
+    },
+    {
+      "student": "Nguyễn Anh Khoa",
+      "title_vi": "Giải pháp quản lý hệ thống cửa hàng tạp hóa thông minh",
+      "title_en": "Intelligent Management Solution for Multiple Grocery Stores",
+      "advisor": "TS. Đinh Bá Tiến"
+    },
+    {
+      "student": "Lê Hải Duy",
+      "title_vi": "Hệ thống hỗ trợ huấn luyện trên môi trường thực tại mở rộng",
+      "title_en": "Platform for Practice in Extended Reality Environment",
+      "advisor": "ThS. Trần Ngọc Đạt Thành"
+    },
+    {
+      "student": "Trần Ngọc Đô",
+      "title_vi": "Hệ thống tương tác hỗ trợ sinh hình ảnh từ mô tả",
+      "title_en": "Interactive System for Text-to-Image Generation",
+      "advisor": "TS. Lê Trung Nghĩa"
+    },
+    {
+      "student": "Nhan Gia Khâm",
+      "title_vi": "Cải tiến giao thức ZK-Rollups bằng phương pháp tính toán song song",
+      "title_en": "ZK-Rollups Optimizations by Parallel Computing",
+      "advisor": "TS. Trần Trung Dũng"
+    },
+    {
+      "student": "Ngô Phúc Hội",
+      "title_vi": "Quản lý mật khẩu an toàn bằng cách sử dụng tính toán đa bên",
+      "title_en": "Secure password management using multi-party computation",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Nguyễn Nhật Tiến",
+      "title_vi": "Nâng cao giám định ảnh và video với nhiếp ảnh điện toán",
+      "title_en": "Advancing Multimedia Forensics through Computational Photography Implementation",
+      "advisor": "PGS.TS. Đặng Nguyễn Đức Tiến"
+    },
+    {
+      "student": "Lương Thanh Hoàng Phú",
+      "title_vi": "Xây dựng hệ thống phân đoạn - phân lớp ảnh u xương dựa trên mô hình ngôn ngữ - ảnh lớn",
+      "title_en": "",
+      "advisor": "PGS.TS. Lý Quốc Ngọc"
+    },
+    {
+      "student": "Lý Hoàng Khải",
+      "title_vi": "Xây dựng mô hình dự đoán sóng não từ hình ảnh",
+      "title_en": "",
+      "advisor": "TS. Trần Thái Sơn"
+    },
+    {
+      "student": "Phạm Phước Sang",
+      "title_vi": "Truy vết đối tượng với truy vấn văn bản",
+      "title_en": "Multi-object Tracking with Text queries",
+      "advisor": "TS. Trần Thái Sơn"
+    },
+    {
+      "student": "Võ Trọng Nghĩa",
+      "title_vi": "Mô hình hoá mối đe dọa bảo mật tự động cho cơ sở hạ tầng dưới dạng mã",
+      "title_en": "Automated Security Threat Modeling for Infrastructure as Code",
+      "advisor": "ThS. Trần Anh Duy"
+    },
+    {
+      "student": "Nguyễn Lê Duy",
+      "title_vi": "Điều hướng ảo trong thực tế mở rộng",
+      "title_en": "Virtual Navigation in Extended Reality",
+      "advisor": "ThS. Trần Ngọc Đạt Thành"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "year": 2016,
+  "students": [
+    "Phạm Minh Chiến",
+    "Hoàng Phú Hùng",
+    "Nguyễn Duy Thanh",
+    "Hồ Minh Huấn",
+    "Tô Hiếu Minh",
+    "Phạm Lưu Trọng Nghĩa",
+    "Lâm Cương Đạt",
+    "Lê Nhựt",
+    "Phạm Anh Quốc",
+    "Đặng Anh Hào",
+    "Đặng Thị Huyền Trâm",
+    "Lê Hoàng Sang",
+    "Nguyễn Bữu Lộc",
+    "Trần Hoài Nam",
+    "Trương Văn Hoằng",
+    "Huỳnh Ngọc Đỉnh",
+    "Vũ Thanh Tùng",
+    "Nguyễn Thị Tình",
+    "Nguyễn Thanh Tuấn",
+    "Hoàng Xuân Trường",
+    "Lý Vĩnh Lợi",
+    "Đoàn Quang Tuấn",
+    "Phan Quốc Thắng",
+    "Phan Minh Sơn",
+    "Nguyễn Đỗ Cát Trân",
+    "Nguyễn Hữu Trường",
+    "Trần Quang Minh",
+    "Trần Ngọc Quốc",
+    "Dương Nguyễn Thái Bảo",
+    "Hoàng Thiên Nữ",
+    "Nguyễn Sĩ Hùng",
+    "Đoàn Minh Hiếu",
+    "Mai Nguyễn Anh Vũ",
+    "Trần Văn Lượn",
+    "Lê Hoàng Anh",
+    "Trang Trung Hoàng Phúc",
+    "Trần Quốc Cường",
+    "Trần Mai Khiêm",
+    "Vũ Lê Thế Anh",
+    "Nguyễn Lê Hồng Hạnh",
+    "Lương Tấn Khang",
+    "Nguyễn Quốc Vương",
+    "Lê Thành Công",
+    "Nguyễn Chí Thức",
+    "Nguyễn Trần Hậu",
+    "Hồ Trung Hiếu",
+    "Nguyễn Khắc Đức",
+    "Đỗ Hoàng Anh Duy",
+    "Trần Anh Hào"
+  ],
+  "student_count": 49,
+  "theses": [
+    {
+      "student": "Phạm Minh Chiến",
+      "title_vi": "Dự đoán giá cổ phiếu sử dụng LSTM và cửa sổ trượt",
+      "title_en": "Predicting stock prices from LSTM and sliding windows",
+      "advisor": "TS.Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Nguyễn Duy Thanh",
+      "title_vi": "Hệ thống đánh giá điểm tín dụng cho các tổ chức Tài chính",
+      "title_en": "Credit scoring system for financial institutions",
+      "advisor": "TS. Đinh Bá Tiến"
+    },
+    {
+      "student": "Tô Hiếu Minh",
+      "title_vi": "Nhận diện hoạt động của con người trên video",
+      "title_en": "Human activity recognition in videos",
+      "advisor": "TS. Đinh Bá Tiến\nTS. Đinh Bá Thắng"
+    },
+    {
+      "student": "Lâm Cương Đạt",
+      "title_vi": "Xây dựng hệ thống quản lý và chia sẻ deal trên nền tảng web và di động",
+      "title_en": "Developing a system for managing and sharing deals on web and mobile platforms",
+      "advisor": "TS. Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Phạm Anh Quốc",
+      "title_vi": "Tìm hiểu và xây dựng hệ thống thông tin Bất động sản",
+      "title_en": "Research and Build Real Estate Information Systems",
+      "advisor": "ThS. Trần Văn Quý"
+    },
+    {
+      "student": "Đặng Thị Huyền Trâm",
+      "title_vi": "Hệ thống hỗ trợ mua hàng trên các trang thương mại điện tử",
+      "title_en": "",
+      "advisor": "ThS. Nguyễn Phạm Phương Nam\nNguyễn Đức Huy"
+    },
+    {
+      "student": "Nguyễn Bữu Lộc",
+      "title_vi": "Xây dựng ứng dụng giáo dục qua trò chơi hỗ trợ thực tại tăng cường cho trẻ em trên nền tảng Android",
+      "title_en": "Develop educational application for children by Augmented Reality supported game on Android platform",
+      "advisor": "TS. Trương Toàn Thịnh\nNguyễn Đức Huy"
+    },
+    {
+      "student": "Trương Văn Hoằng",
+      "title_vi": "Hệ thống hỗ trợ dạy và học giáo viên và học sinh phổ thông",
+      "title_en": "",
+      "advisor": "ThS. Nguyễn Huy Khánh"
+    },
+    {
+      "student": "Vũ Thanh Tùng",
+      "title_vi": "Dịch máy mạng Neural đa ngữ",
+      "title_en": "Multilingual Neural Machine Translation",
+      "advisor": "PGS. TS. Đinh Điền"
+    },
+    {
+      "student": "Nguyễn Thị Tình",
+      "title_vi": "Khai thác Luật kết hợp dựa trên Mẫu Đồ thị con phổ biến",
+      "title_en": "Mining Association Rules based on Frequent Subgraph Patterns.",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Hoàng Xuân Trường",
+      "title_vi": "Phương pháp nhúng sử dụng học sâu cho đồ thị động",
+      "title_en": "Deep embedding method for Dynamic Graphs",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Lý Vĩnh Lợi",
+      "title_vi": "Nhận dạng chữ viết tay tiếng Việt dựa trên mạng học sâu Transformer",
+      "title_en": "Vietnamese Handwritten Text Recognition using Transformer deep model",
+      "advisor": "PGS.TS. Lý Quốc Ngọc"
+    },
+    {
+      "student": "Phan Quốc Thắng",
+      "title_vi": "Dự báo công suất nhà máy điện gió sử dụng Deep Learning",
+      "title_en": "Probabilistic Forecasting of Wind Power using Deep Learning Methods",
+      "advisor": "GS.TS. Lê Hoài Bắc\nGS.TS. Wu Yuan-Kang"
+    },
+    {
+      "student": "Phan Minh Sơn",
+      "title_vi": "Trích xuất các cụm từ tập trung trong văn bản sử dụng học sâu",
+      "title_en": "Extracting Diverse Keyphrases using Deep Neural Networks",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Hữu Trường",
+      "title_vi": "Nhận dạng cử chỉ tay",
+      "title_en": "Hand Pose Recognition",
+      "advisor": "PGS.TS. Lý Quốc Ngọc"
+    },
+    {
+      "student": "Trần Quang Minh",
+      "title_vi": "Điều hướng không bản đồ cho rô-bốt di động sử dụng học tăng cường sâu",
+      "title_en": "Mobile Robot Planner Using Deep Reinforcement learning for Mapless Navigation",
+      "advisor": "PGS.TS Lý Quốc Ngọc"
+    },
+    {
+      "student": "Trần Ngọc Quốc",
+      "title_vi": "Hồi quy Tensor sử dụng phép phân rã Tucker",
+      "title_en": "Tensor Regression using Tucker Decomposition",
+      "advisor": "TS. Trần Thái Sơn"
+    },
+    {
+      "student": "Dương Nguyễn Thái Bảo",
+      "title_vi": "Ứng dụng học máy và công nghệ viễn thám để theo dõi và dự đoán mực nước hệ thống hồ ở vùng Mekong",
+      "title_en": "Reservoirs Network in Mekong: Water Level Monitoring and Prediction with Machine Learning and Remote Sensing",
+      "advisor": "GS.TS. Lê Hoài Bắc\nTS. Võ Đình Phong"
+    },
+    {
+      "student": "Nguyễn Sĩ Hùng",
+      "title_vi": "Xây Dựng Hệ Thống Hỏi Đáp Tiếng Việt Tự Động",
+      "title_en": "Application for answering question",
+      "advisor": "ThS. Lê Ngọc Thành"
+    },
+    {
+      "student": "Mai Nguyễn Anh Vũ",
+      "title_vi": "Hệ thống tương tác truy vấn thông tin đa mô hình hỗ trợ tổ chức cuộc sống và trợ lí ghi nhớ",
+      "title_en": "An Interactive Multimodal Retrieval System for Memory Assistant and Life Organized Support",
+      "advisor": "PGS.TS Nguyễn Đình Thúc\nTS. Đào Minh Sơn (NICT)"
+    },
+    {
+      "student": "Lê Hoàng Anh",
+      "title_vi": "Truy vấn thông tin từ nhật ký sinh hoạt dựa trên khoảng cách ngữ nghĩa giữa hình ảnh và mô tả bằng ngôn ngữ tự nhiên.",
+      "title_en": "Lifelog moment retrieval with Self-attention based joint embedding model",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Nguyễn Thành An"
+    },
+    {
+      "student": "Trần Quốc Cường",
+      "title_vi": "Gán nhãn đối tượng trong video với phân đoạn có tương tác",
+      "title_en": "Video Object Annotation with Interactive Segmentation",
+      "advisor": "PGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Trần Mai Khiêm",
+      "title_vi": "Quản lý và tích hợp dịch vụ Trí tuệ Nhân tạo trên thiết bị thông minh",
+      "title_en": "AI Service Management and Integration for SmartEdge Device",
+      "advisor": "PGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Vũ Lê Thế Anh",
+      "title_vi": "Phân đoạn đối tượng thị giác với cơ chế Attention trên tham chiếu tăng cường",
+      "title_en": "Visual Object Segmentation with Attention on Enhanced Reference",
+      "advisor": "PGS.TS. Trần Minh Triết\nGS.TS. Đỗ Ngọc Minh (UIUC)"
+    },
+    {
+      "student": "Lương Tấn Khang",
+      "title_vi": "Phát hiện và phòng thủ trước các cuộc tấn công từ chối dịch vụ dựa trên các phương thức học máy và học sâu trong Software-defined Networking",
+      "title_en": "Distributed Denial Of Service Attacks Detection And Defense Based On Machine Learning And Deep Learning Methods In Software-defined Networking",
+      "advisor": "TS. Trần Trung Dũng\nThS. Lê Giang Thanh"
+    },
+    {
+      "student": "Nguyễn Quốc Vương",
+      "title_vi": "Công cụ và giải pháp tích hợp, thu thập và phân tích dữ liệu truyền thông xã hội",
+      "title_en": "Platform and Utility for Smart Social Media Analysis",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Nguyễn Hải Đăng"
+    },
+    {
+      "student": "Nguyễn Chí Thức",
+      "title_vi": "Nền tảng tích hợp và vận hành MicroService",
+      "title_en": "Micro Service Integration and Execution Platform",
+      "advisor": "PGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Hồ Trung Hiếu",
+      "title_vi": "Thuật toán DiffGen cải tiến với số mức chuyên biệt hóa thích nghi",
+      "title_en": "An improved DiffGen algorithm with the adaptive number of specializations",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Đỗ Hoàng Anh Duy",
+      "title_vi": "Supersonic SNARKs và ứng dụng",
+      "title_en": "Supersonic SNARKs and applications",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Trần Anh Hào",
+      "title_vi": "Phát triển thuật toán lắp ghép trình tự bộ gen hoàn chỉnh dành cho vi khuẩn sử dụng công nghệ Read-cloud",
+      "title_en": "Near complete genome assembly for bacterias using read-cloud technology",
+      "advisor": "TS. Phạm Kim Sơn (Bioturing, UCSD)"
+    }
+  ]
+}

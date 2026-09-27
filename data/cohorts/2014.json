@@ -1,0 +1,182 @@
+{
+  "year": 2014,
+  "students": [
+    "Ngô Huỳnh Ngọc Khánh",
+    "Bùi Ngọc Minh",
+    "Đỗ Trọng Lễ",
+    "Lương Quốc An",
+    "Võ Hồ Việt Khoa",
+    "Huỳnh Minh Chương",
+    "Nguyễn Trung Hiếu",
+    "Nguyễn Quốc Bảo",
+    "Nguyễn Thị Thu Hiền",
+    "Nguyễn Đăng An",
+    "Lê Hoàng Nam",
+    "Huỳnh Hanh Thông",
+    "Trần Phúc Toàn",
+    "Lê Đình Hân",
+    "Trần Phước Hiền",
+    "Nguyễn Mạnh Quỳnh",
+    "Hoàng Sơn",
+    "Nguyễn Anh Tài",
+    "Đỗ Hữu Khang",
+    "Lê Nhật Khang Duy",
+    "Nguyễn Anh Tú",
+    "Phùng Văn Duy",
+    "Nguyễn Thành Sơn",
+    "Trần Thanh Tuấn",
+    "Nguyễn Anh Khoa",
+    "Huỳnh Khoa Nguyên",
+    "Lý Đăng Quang",
+    "Nguyễn Ngô Lập",
+    "Huỳnh Ngọc Bảo Vy",
+    "Lê Minh Sơn",
+    "Nguyễn Hoàng Phương",
+    "Lê Bá Quý",
+    "Nguyễn Văn Quang",
+    "Trần Thiên Tứ",
+    "Nguyễn Quốc Thảo",
+    "Phạm Minh Sang",
+    "Nguyễn Song Hoàng Ngân",
+    "Cao Việt Dũng",
+    "Thái Chấn Đạt",
+    "Nguyễn Thủy Tiên",
+    "Nguyễn Văn Huy",
+    "Bùi Duy Thiện"
+  ],
+  "student_count": 42,
+  "theses": [
+    {
+      "student": "Ngô Huỳnh Ngọc Khánh",
+      "title_vi": "Nghiên cứu và phát triển hệ thống kết nối Internet cho vạn vật trong nhà",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Đức Hoàng Hạ"
+    },
+    {
+      "student": "Bùi Ngọc Minh",
+      "title_vi": "Nhận dạng và truy vấn đối tượng ba chiều với Ring View và Neural Embedding",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Nguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Lương Quốc An",
+      "title_vi": "Phát sinh mô tả cho ảnh với cơ chế Attention trên hình ảnh  và tăng cường thông tin khái niệm",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Nguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Huỳnh Minh Chương",
+      "title_vi": "Mô hình quyết định khử nhiễu bóng xương trong chẩn đoán bệnh trên ảnh X-quang phổi",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Nguyễn Quốc Bảo",
+      "title_vi": "Tìm hiểu và ứng dụng hệ mã đồng cấu Boneh-Goh-Nissim",
+      "title_en": "",
+      "advisor": "PGS. TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Nguyễn Đăng An",
+      "title_vi": "Sin4 - Hệ thống tổng hợp thông tin sinh viên",
+      "title_en": "",
+      "advisor": "ThS. Nguyễn Huy Khánh"
+    },
+    {
+      "student": "Huỳnh Hanh Thông",
+      "title_vi": "Phát triển môi trường thử nghiệm cộng tác ảo",
+      "title_en": "",
+      "advisor": "ThS. Đặng Bình Phương\nThS. Trần Quang Tánh"
+    },
+    {
+      "student": "Lê Đình Hân",
+      "title_vi": "Tương tác thông minh trong môi trường hỗ trợ tương tác với thực thể (Tangible UI)",
+      "title_en": "",
+      "advisor": "ThS. Đặng Bình Phương\nThS. Trần Quang Tánh"
+    },
+    {
+      "student": "Nguyễn Mạnh Quỳnh",
+      "title_vi": "Tìm hiểu và xây dựng hệ thống thương mại điện tử dựa trên nền tảng blockchain",
+      "title_en": "",
+      "advisor": "ThS. Trần Văn Quý"
+    },
+    {
+      "student": "Nguyễn Anh Tài",
+      "title_vi": "Áp dụng phương pháp học sâu phân tích cảm xúc người dùng",
+      "title_en": "",
+      "advisor": "PGS.TS. Lê Hoài Bắc\nTS. Bùi Thanh Hùng"
+    },
+    {
+      "student": "Lê Nhật Khang Duy",
+      "title_vi": "Nghiên cứu xây dựng hệ thống gợi ý bằng mô hình học sâu Bayesian",
+      "title_en": "",
+      "advisor": "TS. Trần Thái Sơn"
+    },
+    {
+      "student": "Phùng Văn Duy",
+      "title_vi": "Đọc hiểu văn bản và trả lời tự động",
+      "title_en": "",
+      "advisor": "PGS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Trần Thanh Tuấn",
+      "title_vi": "Xây dựng công cụ phát hiện đột biến điểm trên bộ gen người dựa trên thuật toán so khớp chuỗi và mô hình xác suất Bayesian",
+      "title_en": "",
+      "advisor": "TS. Phạm Kim Sơn\n(UCSD, BioTuring)"
+    },
+    {
+      "student": "Huỳnh Khoa Nguyên",
+      "title_vi": "Ứng dụng thực tế ảo trong xây dựng kênh thông tin bất động sản",
+      "title_en": "",
+      "advisor": "ThS Trương Phước Lộc"
+    },
+    {
+      "student": "Nguyễn Ngô Lập",
+      "title_vi": "Xây dựng phòng thí nghiệm Hóa học 3D với công nghệ WebGL và thư viện Three.JS",
+      "title_en": "",
+      "advisor": "ThS. Lương Vĩ Minh"
+    },
+    {
+      "student": "Lê Minh Sơn",
+      "title_vi": "Nghiên cứu và phát triển hệ thống IoT trong việc quản lý và chăm sóc cây trồng",
+      "title_en": "",
+      "advisor": "ThS. Trần Thị Bích Hạnh \nCN. Nguyễn Đức Huy"
+    },
+    {
+      "student": "Lê Bá Quý",
+      "title_vi": "Ứng dụng di động hỗ trợ cồng đồng du lịch phượt",
+      "title_en": "",
+      "advisor": "TS. Đinh Bá Tiến"
+    },
+    {
+      "student": "Trần Thiên Tứ",
+      "title_vi": "Dịch máy Anh-Việt sử dụng transformer trong Neural Network Machine Translation",
+      "title_en": "",
+      "advisor": "PGS.TS. Đinh Điền"
+    },
+    {
+      "student": "Phạm Minh Sang",
+      "title_vi": "Nghiên cứu và phát triển giải pháp tích hợp và vận chuyển dữ liệu giữa các nền tảng online",
+      "title_en": "",
+      "advisor": "ThS. Lương Vĩ Minh\nCN. Nguyễn Đức Huy"
+    },
+    {
+      "student": "Cao Việt Dũng",
+      "title_vi": "Xây dựng hệ thống dạy học thông qua trò chơi",
+      "title_en": "",
+      "advisor": "ThS. Trần Thị Bích Hạnh"
+    },
+    {
+      "student": "Nguyễn Thủy Tiên",
+      "title_vi": "Dự đoán mức độ lòng trung thành của người dùng trong hệ thống e-learning",
+      "title_en": "",
+      "advisor": "TS. Lê Thị Nhàn"
+    },
+    {
+      "student": "Nguyễn Văn Huy",
+      "title_vi": "Ứng dụng job queue để xử lý các tác vụ tự động",
+      "title_en": "",
+      "advisor": "ThS. Nguyễn Huy Khánh"
+    }
+  ]
+}

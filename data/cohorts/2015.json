@@ -1,0 +1,234 @@
+{
+  "year": 2015,
+  "students": [
+    "Tạ Việt Tiến",
+    "Hồ Hữu Sơn",
+    "Bùi Phúc Trung Vĩnh",
+    "Lê Văn Tí Nho",
+    "Võ Quang Hưng",
+    "Nguyễn Ngọc Thái",
+    "Nguyễn Hữu Đạt Đức",
+    "Trần Phước Lộc",
+    "Nguyễn Phước Quý Quang",
+    "Trần Hoài Nam",
+    "Tống Thiện Minh",
+    "Nguyễn Đức Nhân",
+    "Hà Tấn Linh",
+    "Phan Hồng Hạnh Trinh",
+    "Trần Chí Khang",
+    "Võ Đình Tấn",
+    "Đỗ Thanh Phong",
+    "Cao Bá Đông",
+    "Vòng Chí Tài",
+    "Nguyễn Thành Tân",
+    "Nguyễn Quốc Huy",
+    "Nguyễn Vĩnh Phúc",
+    "Đỗ Thành Nhơn",
+    "Đỗ Thanh Lam",
+    "Lê Dương Tuấn Anh",
+    "Lâm Đức Tân",
+    "Cao Nguyễn Minh Hiếu",
+    "Võ Khắc Duy",
+    "Nguyễn Đào Xuân Trường",
+    "Võ Anh Khoa",
+    "Phan Trọng Đạt",
+    "Nguyễn Diệu Hiền",
+    "Lê Nguyên Khang",
+    "Tôn Thất Vĩnh",
+    "Hoàng Trung Hiếu",
+    "Trương Thành Đạt",
+    "Nguyễn Hải Triều",
+    "Trần Thế Trung Thiện",
+    "Nguyễn Minh Mẫn",
+    "Nguyễn Duy Tâm",
+    "Nguyễn Lê Hưng",
+    "Huỳnh Võ Nhật Huy",
+    "Bùi Tiến Lộc",
+    "Nguyễn Văn Quang Huy",
+    "Ngô Đình Hy",
+    "Tôn Thất Tâm Định",
+    "Trần Quang Thắng",
+    "Đỗ Văn Xinh",
+    "Võ Thanh Phương",
+    "Huỳnh Hồng Ân",
+    "Đặng Phước Quang",
+    "Nguyễn Huỳnh Phú Quý"
+  ],
+  "student_count": 52,
+  "theses": [
+    {
+      "student": "Tạ Việt Tiến",
+      "title_vi": "Tìm hiểu và xây dựng hệ thống y tế dựa trên Blockchain\n (Develop a medical system based on Blockchain)",
+      "title_en": "",
+      "advisor": "ThS. Trần Văn Quý"
+    },
+    {
+      "student": "Bùi Phúc Trung Vĩnh",
+      "title_vi": "Xây dựng nền tảng trò chơi trực tuyến dựa trên công nghệ blockchain\n (Building Blockchain-based online game)",
+      "title_en": "",
+      "advisor": "ThS. Đỗ Nguyên Kha"
+    },
+    {
+      "student": "Võ Quang Hưng",
+      "title_vi": "Phân tích cảm xúc từ các bình luận trên mạng xã hội\n (Sentiment analysis from comments in social networks)",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Nguyễn Hữu Đạt Đức",
+      "title_vi": "Dự đoán giá cổ phiểu sử dụng LSTM\n (Stock price prediction using LSTM)",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Nguyễn Phước Quý Quang",
+      "title_vi": "Giải pháp thanh toán trong bệnh viện\n (Payment system for hospitals)",
+      "title_en": "",
+      "advisor": "TS. Đinh Bá Tiến"
+    },
+    {
+      "student": "Tống Thiện Minh",
+      "title_vi": "Hệ thống hỗ trợ quản lý chung cư\n (Apartment Management Support System)",
+      "title_en": "",
+      "advisor": "TS. Đinh Bá Tiến"
+    },
+    {
+      "student": "Hà Tấn Linh",
+      "title_vi": "Kết hợp Thị giác máy tính và Internet kết nối vạn vật vào một Giải pháp Nhà thông minh\n (Application of Computer Vision and Internet of Things in a Smarthome Solution)",
+      "title_en": "",
+      "advisor": "TS. Trần Trung Dũng\n ThS. Lê Giang Thanh"
+    },
+    {
+      "student": "Trần Chí Khang",
+      "title_vi": "Ứng dụng hỗ trợ giải toán cấp 3 dùng OCR trên Android.\n (High school Math problem solver application for Android using OCR)",
+      "title_en": "",
+      "advisor": "ThS. Trương Toàn Thịnh"
+    },
+    {
+      "student": "Đỗ Thanh Phong",
+      "title_vi": "Xây dựng ứng dụng do nhịp tim trên hệ điều hành Android\n (Heart rate application for Android)",
+      "title_en": "",
+      "advisor": "TS. Ngô Huy Biên"
+    },
+    {
+      "student": "Vòng Chí Tài",
+      "title_vi": "Theo vết mặt người dựa vào kĩ thuật detection-tracking và tracklet-tracklet association \n (Face tracking based on detection-tracking and\n tracklet-tracklet association)",
+      "title_en": "",
+      "advisor": "PGS.TS. Lý Quốc Ngọc"
+    },
+    {
+      "student": "Nguyễn Quốc Huy",
+      "title_vi": "Cải thiện chất lượng khôi phục tiếng nói truyền trong xương bằng mô hình dự đoán tuyến tính và mạng bộ nhớ ngắn hạn dài\n (Improving bone-conducted speech restoration using linear prediction and long short-term memory model)",
+      "title_en": "",
+      "advisor": "PGS.TS. Lê Hoài Bắc\n GS.TS. Masashi Unoki (JAIST)"
+    },
+    {
+      "student": "Nguyễn Vĩnh Phúc",
+      "title_vi": "Chống giả dạng trong xác thực khuôn mặt\n (Anti-spoofing in face verification)",
+      "title_en": "",
+      "advisor": "TS. Lê Mai Tùng\n ThS. Lê Ngọc Thành"
+    },
+    {
+      "student": "Đỗ Thành Nhơn",
+      "title_vi": "Ước lượng mật độ đám đông dựa trên trung bình trọng số bản đồ mật độ \n (Crowd Counting based on Weight Sum of Deformable Convolution Neuron Network)",
+      "title_en": "",
+      "advisor": "PGS.TS. Lý Quốc Ngọc"
+    },
+    {
+      "student": "Lê Dương Tuấn Anh",
+      "title_vi": "Dự đoán trạng thái hồ nước bằng phương pháp máy học\n (Predicting Large Global Reservoirs Status - A Machine Learning Approach)",
+      "title_en": "",
+      "advisor": "PGS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Cao Nguyễn Minh Hiếu",
+      "title_vi": "Tái định danh người từ thô đến tinh dựa trên đặc trưng học sâu toàn cục và thông tin thuộc tính\n (Person Re-identification from coarse to fine based on global deep feature and attribute information)",
+      "title_en": "",
+      "advisor": "PGS.TS. Lý Quốc Ngọc"
+    },
+    {
+      "student": "Võ Khắc Duy",
+      "title_vi": "Nhận dạng thủ ngữ tiếng Việt\n (Vietnamese sign language recognition)",
+      "title_en": "",
+      "advisor": "TS. Trần Thái Sơn"
+    },
+    {
+      "student": "Võ Anh Khoa",
+      "title_vi": "Phát huy mối liên kết nội dung và bối cảnh trong việc tìm kiếm và sắp xếp sự kiện từ dữ liệu lifelog\n (Lifelog Discovery: Solve my life puzzle and Lifelog moment retrieval)",
+      "title_en": "",
+      "advisor": "TS. Đào Minh Sơn\n PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Nguyễn Diệu Hiền",
+      "title_vi": "Hệ thống truy vấn sự kiện từ lifelog - nhật ký sinh hoạt hàng ngày dưới dạng hình ảnh\n (An interative platform for moment retrieval from activity visual lifelog)",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\n ThS. Nguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Tôn Thất Vĩnh",
+      "title_vi": "Phân đoạn và hỗ trợ chẩn đoán trên ảnh y khoa\n (Medical Image Segmentation and Diagnosis)",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\n GS.TS. Đỗ Ngọc Minh (UIUC)"
+    },
+    {
+      "student": "Trương Thành Đạt",
+      "title_vi": "Nhận dạng trong miền chưa nhìn thấy: Tổng quát hóa miền và Ứng dụng\n (Recognition in Unseen Domains: Domain Generalization and Its Applications)",
+      "title_en": "",
+      "advisor": "PGS.TS. Lưu Khoa (UARK)\n PGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Trần Thế Trung Thiện",
+      "title_vi": "Nghiên cứu và xây dựng ứng dụng theo dõi tình trạng ngáy ngủ trên điện thoại thông minh.\n (Snore monitoring application in smartphones)",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Đức Hoàng Hạ"
+    },
+    {
+      "student": "Nguyễn Duy Tâm",
+      "title_vi": "Tương tác thông minh với mắt kính tích hợp camera\n (Smart Interaction with Camera Glasses)",
+      "title_en": "",
+      "advisor": "PGS.TS. Trần Minh Triết\n ThS. Nguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Huỳnh Võ Nhật Huy",
+      "title_vi": "Tìm hiểu và xây dựng ứng dụng nhập liệu tối ưu cho tiếng Việt trên thiết bị di động\n (Optimizing Vietnamese Touchscreen Keyboards for Gesture Typing)",
+      "title_en": "",
+      "advisor": "TS. Nguyễn Đức Hoàng Hạ"
+    },
+    {
+      "student": "Nguyễn Văn Quang Huy",
+      "title_vi": "Mã hóa đồng cấu toàn vẹn bằng Ring GSW ứng dụng vào tính toán đa phương\n (Ring-GSW Fully Homomorphic Encryption and Apply to Multi-Party Computation)",
+      "title_en": "",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Tôn Thất Tâm Định",
+      "title_vi": "Mã hóa đồng cấu toàn vẹn Fan-Vercauteren và ứng dụng\n (Fan-Vercauteren Cryptosystem and Its Applications)",
+      "title_en": "",
+      "advisor": "PGS. TS. Nguyễn Đình Thúc\n TS. Nguyễn An Khương"
+    },
+    {
+      "student": "Trần Quang Thắng",
+      "title_vi": "Sử dụng De Bruijn Graph và công nghệ Read Cloud để lắp ghép các bộ gen phức tạp\n (Assemble complex genomes using De Brujin graph and Read Cloud technology)",
+      "title_en": "",
+      "advisor": "TS. Phạm Kim Sơn (Bioturing)"
+    },
+    {
+      "student": "Đỗ Văn Xinh",
+      "title_vi": "Mô hình nhiễu tạo mặt nạ cho phân tích dữ liệu đảm bảo tính riêng tư\n (Noise model for mask generation to preserve privacy in data analysis) HỦY",
+      "title_en": "",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Võ Thanh Phương",
+      "title_vi": "Tìm hiểu và xây dựng ứng dụng nhận dạng người nói\n (Study and build speaker recognition application)",
+      "title_en": "",
+      "advisor": "TS. Ngô Minh Nhựt\n ThS. Cao Xuân Nam"
+    },
+    {
+      "student": "Đặng Phước Quang",
+      "title_vi": "Tìm hiểu và xây dựng ứng dụng hệ thống chia sẻ dữ liệu phân tán IPFS\n (Study and Application of Distributed File-Sharing System - IPFS)",
+      "title_en": "",
+      "advisor": "PGS. TS. Nguyễn Đình Thúc"
+    }
+  ]
+}

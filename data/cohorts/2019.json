@@ -1,0 +1,300 @@
+{
+  "year": 2019,
+  "students": [
+    "Đinh Trọng Quân",
+    "Nguyễn Hải Hà",
+    "Nguyễn Minh Uyên",
+    "Trần Phương Đình",
+    "Trịnh Thị Thuỳ",
+    "Lê Đức Minh",
+    "Lê Công Bình",
+    "Nguyễn Lê Bảo Thi",
+    "Trần Anh Huy",
+    "Nguyễn Minh Thuận",
+    "Lê Ngọc Lâm",
+    "Vũ Đào Hoàng Long",
+    "Võ Chánh Hưng",
+    "Nguyễn Vân Huy Vũ",
+    "Lê Minh Tú",
+    "Đỗ Nguyễn Duy Hoàng",
+    "Võ Ngọc Tín",
+    "Hoàng Minh Huy",
+    "Nguyễn Võ Anh Khoa",
+    "Phạm Quang Huy",
+    "Võ Song Nguyên",
+    "Võ Tiến Thịnh",
+    "Nguyễn Lê Quang",
+    "Đinh Mình Bảo",
+    "Vũ Công Thành",
+    "Ngô Trường Huy",
+    "Nguyễn Thị Hiền Vi",
+    "Nguyễn Hà Minh",
+    "Vũ Hữu Nghĩa",
+    "Lê Đức Huy",
+    "Phan Lộc Sơn",
+    "Nguyễn Xuân Vỵ",
+    "Mai Duy Nam",
+    "Nguyễn Hữu Bình",
+    "Nguyễn Phan Đức Anh",
+    "Nguyễn Lê Hữu Hoàng",
+    "Phạm Bá Cường",
+    "Nguyễn Tam Dũng",
+    "Lê Nhật Quang",
+    "Chung Hoàng Tuấn Kiệt",
+    "Bạch Ngọc Minh Tâm",
+    "Trần Huy Vũ",
+    "Bùi Đình Nguyên Khoa",
+    "Vũ Văn Đô",
+    "Đoàn Kim Huy",
+    "Quách Bình Long",
+    "Cao Quốc Thắng",
+    "Võ Văn Toàn",
+    "Phạm Đức Tú",
+    "Lê Duy Thức",
+    "Trần Duy Tiến",
+    "Thái Xuân Đăng",
+    "Nguyễn Đăng Tiến Thành",
+    "Nguyễn Nhật Minh Khôi",
+    "Huỳnh Ngô Trung Trực",
+    "Phan Duy Trung Hiếu",
+    "Lê Trung Hiếu",
+    "Phan Nguyễn Thanh Tùng",
+    "Nguyễn Ngọc Khôi Nguyên",
+    "Chu Chí Biên",
+    "Lê Minh Hiển",
+    "Nguyễn Đình Trí",
+    "Võ Hoàng Vũ",
+    "Đàm Thị Xuân Ý",
+    "Đặng Thái Duy",
+    "Hà Chí Hào",
+    "Nguyễn Đại Nghĩa",
+    "Lê Phạm Lan Anh",
+    "Nguyễn Trung Thời",
+    "Đỗ Hoài Nam"
+  ],
+  "student_count": 70,
+  "theses": [
+    {
+      "student": "Đinh Trọng Quân",
+      "title_vi": "Hệ thống phát hiện tương đồng trong mã nguồn",
+      "title_en": "Code Similarity Detection System",
+      "advisor": "PGS.TS. Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Nguyễn Minh Uyên",
+      "title_vi": "Ứng dụng lớp học ảo cho dạy học trực tuyến",
+      "title_en": "Virtual classroom application for online education",
+      "advisor": "ThS. Nguyễn Huy Khánh"
+    },
+    {
+      "student": "Trịnh Thị Thuỳ",
+      "title_vi": "Nghiên cứu ứng dụng xác thực khuôn mặt cho trường mẫu giáo",
+      "title_en": "Research on facial recognition application for kindergarten",
+      "advisor": "TS. Lâm Quang Vũ"
+    },
+    {
+      "student": "Lê Công Bình",
+      "title_vi": "Hỗ trợ lập trình an toàn cho lập trình viên Android",
+      "title_en": "Supporting Secure Coding for Android Developers",
+      "advisor": "ThS. Trần Anh Duy\nThS. Trương Phước Lộc"
+    },
+    {
+      "student": "Trần Anh Huy",
+      "title_vi": "Nghiên cứu và ứng dụng Web 3.0 và WebAssembly trong phát triển phần mềm",
+      "title_en": "Research and application of Web 3.0, WebAssembly in software development",
+      "advisor": "ThS. Lương Vĩ Minh\nThầy Nguyễn Đức Huy"
+    },
+    {
+      "student": "Lê Ngọc Lâm",
+      "title_vi": "Sách tương tác thời gian thực",
+      "title_en": "Realtime Interactive Book",
+      "advisor": "ThS. Nguyễn Huy Khánh\n ThS. Phạm Hoàng Hải"
+    },
+    {
+      "student": "Võ Chánh Hưng",
+      "title_vi": "Ứng dụng và trải nghiệm chuyến tham quan ảo",
+      "title_en": "Application for creating and visualizing virtual tours",
+      "advisor": "PGS.TS. Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Lê Minh Tú",
+      "title_vi": "Tích hợp các mô hình ngôn ngữ được huấn luyện trước vào dịch máy mạng neural",
+      "title_en": "Integrating pre-trained language models into Neural Machine Translation",
+      "advisor": "PGS.TS. Đinh Điền\nThS. Nguyễn Hồng Bửu Long"
+    },
+    {
+      "student": "Võ Ngọc Tín",
+      "title_vi": "Chuyển tự tự động từ chữ Nôm sang chữ Quốc Ngữ theo mô hình ngôn ngữ phân lớp",
+      "title_en": "Translitering Nôm scripts into Vietnamese National scripts using class-based language model",
+      "advisor": "PGS.TS. Đinh Điền\nThS. Nguyễn Hồng Bửu Long"
+    },
+    {
+      "student": "Nguyễn Võ Anh Khoa",
+      "title_vi": "Nghiên cứu giải pháp kiểm thử tự động API sử dụng GPT",
+      "title_en": "Studying approach for API service test automation using GPT",
+      "advisor": "PGS.TS. Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Võ Song Nguyên",
+      "title_vi": "Tóm tắt văn bản sử dụng thuật toán Meta-Learning và giải thích kết quả thu được",
+      "title_en": "Extractive text summarization using Meta-Learning and explain the result using multiple techniques",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Lê Quang",
+      "title_vi": "Sử dụng BERT phân tích cảm xúc và giải thích kết quả bằng SHAP",
+      "title_en": "Using BERT for Sentiment Analysis and Explaining the Result with SHAP",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Vũ Công Thành",
+      "title_vi": "Dự đoán liên kết trên đồ thị tri thức sử dụng kiến trúc MetaFormer và phép biến đổi Fourier",
+      "title_en": "Knowledge graph link prediction by leveraging MetaFormer architecture and Fourier Transforms",
+      "advisor": "ThS. Lê Ngọc Thành\nThS. Tạ Việt Phương"
+    },
+    {
+      "student": "Lê Minh Tú",
+      "title_vi": "Một đa phương thức khả diễn cho bài toán phân tích độ cuốn hút của video trên Youtube",
+      "title_en": "Explainable multimodal model for Youtube user engagement analysis",
+      "advisor": "TS. Nguyễn Tiến Huy"
+    },
+    {
+      "student": "Nguyễn Hà Minh",
+      "title_vi": "Phương pháp xử lý hậu kỳ không phụ thuộc mô hình cho bài toán phân đoạn ống thông y tế và dây dẫn đường trong hình ảnh X-quang 2 chiều",
+      "title_en": "A model-agnostic post-processing method for catheter and guidewire segmentation in 2D X-ray images",
+      "advisor": "GS.TS. Lê Hoài Bắc\nTS. Nguyễn Quang Anh"
+    },
+    {
+      "student": "Vũ Hữu Nghĩa",
+      "title_vi": "Mô hình học sâu gọn nhẹ cho tương tác người-cảnh",
+      "title_en": "Lightweight Deep Learning for Human-Scene Interaction",
+      "advisor": "GS.TS. Lê Hoài Bắc\nTS. Nguyễn Quang Anh"
+    },
+    {
+      "student": "Phan Lộc Sơn",
+      "title_vi": "Áp dụng kỹ thuật học tương phản và biểu diễn chú ý BERT vào mô hình DualGCN để phân tích quan điểm dựa trên khía cạnh",
+      "title_en": "Aspect-based Sentiment Analysis using DualGCN with Constrastive Learning and BERT Attention.",
+      "advisor": "TS. Phạm Trọng Nghĩa"
+    },
+    {
+      "student": "Mai Duy Nam",
+      "title_vi": "Vấn đề bất đồng trong giải thích của XAI khi ứng dụng trên dữ liệu ảnh bằng saliency map",
+      "title_en": "The Disagreement Problem in XAI on Image Data via Saliency Maps",
+      "advisor": "GS.TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Phan Đức Anh",
+      "title_vi": "Mở rộng ECBC và ứng dụng trong lưu trữ phi tập trung",
+      "title_en": "On the ECBC expansion for Decentralized Storage",
+      "advisor": "PGS. TS. Nguyễn Đình Thúc\nThS. Lê Phúc Lữ"
+    },
+    {
+      "student": "Phạm Bá Cường",
+      "title_vi": "Khảo sát SNARGS và áp dụng cho Blockchain",
+      "title_en": "SNARGS and Blockchain Applications: An Experimentation",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Lê Nhật Quang",
+      "title_vi": "Tìm hiểu tính khả thi của việc tạo và trao đổi NFT trên Layer 1 của Bitcoin",
+      "title_en": "Finding out the feasibility of creating and exchanging nonfungible tokens at Layer 1 of Bitcoin Blockchain",
+      "advisor": "TS.Trần Trung Dũng"
+    },
+    {
+      "student": "Bạch Ngọc Minh Tâm",
+      "title_vi": "Nhận biết mã độc khai thác tiền điện tử bằng học máy",
+      "title_en": "Cryptomining Malware Detection using Machine Learning",
+      "advisor": "ThS. Trần Anh Duy\nThS. Nguyễn Hải Đăng"
+    },
+    {
+      "student": "Bùi Đình Nguyên Khoa",
+      "title_vi": "Nghiên cứu và triển khai giải pháp Layer 2 vào giao dịch phi tập trung trên mạng Blockchain",
+      "title_en": "Research and implement Layer 2 solution into a decentralized exchange on Blockchain network",
+      "advisor": "TS. Trần Trung Dũng"
+    },
+    {
+      "student": "Đoàn Kim Huy",
+      "title_vi": "Chứng thực ẩn danh: nghiên cứu thực nghiệm",
+      "title_en": "Anonymous Authentication: an Experimentation",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc\nThS. Ngô Đình Hy"
+    },
+    {
+      "student": "Cao Quốc Thắng",
+      "title_vi": "Nghiên cứu giao thức Lightning Network và cài đặt thử nghiệm trên Blockchain sử dùng Cosmos SDK",
+      "title_en": "Research Lightning Network Protocol and implement an experiment on Blockchain using Cosmos SDK",
+      "advisor": "TS. Trần Trung Dũng"
+    },
+    {
+      "student": "Phạm Đức Tú",
+      "title_vi": "Hợp tập hợp trong tính toán đa bên",
+      "title_en": "Private Set Union",
+      "advisor": "PGS.TS. Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Lê Duy Thức",
+      "title_vi": "Hệ thống lập trình thi đấu cho ngôn ngữ Solidity",
+      "title_en": "Solidity Online Judge",
+      "advisor": "ThS. Nguyễn Hải Đăng\nThS. Đỗ Trọng Lễ"
+    },
+    {
+      "student": "Thái Xuân Đăng",
+      "title_vi": "Truy vấn thông tin thị giác thông minh dựa trên phân tích ngữ cảnh",
+      "title_en": "Intelligent Visual Retrieval with Context Awareness",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Nguyễn Ngọc Châu Sang"
+    },
+    {
+      "student": "Nguyễn Nhật Minh Khôi",
+      "title_vi": "Phát hiện hoán chuyển gương mặt dựa vào phân tích tập trung đặc trưng điểm mốc",
+      "title_en": "Face Swap Detection based on\nLandmark Focusing Feature",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Đỗ Trọng Lễ"
+    },
+    {
+      "student": "Phan Duy Trung Hiếu",
+      "title_vi": "Nghiên cứu và xây dựng ví Mutil-sig trên mạng Bitcoin",
+      "title_en": "Research and build Mutil-sig wallet on Bitcoin block-chain",
+      "advisor": "TS. Trương Toàn Thịnh"
+    },
+    {
+      "student": "Phan Nguyễn Thanh Tùng",
+      "title_vi": "Hệ thống hỗ trợ trình diễn thông minh cho thời trang",
+      "title_en": "Smart Assistant System for Fashion Presentation",
+      "advisor": "TS. Lê Trung Nghĩa\nPGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Chu Chí Biên",
+      "title_vi": "Mô hình tạo sinh cho thiết kế nội thất thông minh",
+      "title_en": "Generative AI for Advanced Interior Design",
+      "advisor": "TS. Lê Trung Nghĩa\nPGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Nguyễn Đình Trí",
+      "title_vi": "Phương pháp hoạt họa nhân vật trong môi trường thực tại tăng cường cho sáng tạo",
+      "title_en": "A Mobile Augmented Reality Solution for Animating Characters in Media Content Creation",
+      "advisor": "TS. Lê Khánh Duy"
+    },
+    {
+      "student": "Võ Hoàng Vũ",
+      "title_vi": "Hệ thống website builder hỗ trợ phát sinh mã nguồn front-end",
+      "title_en": "Buildify: A Website Builder Approach to Front-end Source Code Generation",
+      "advisor": "ThS Lương Vĩ Minh\nThầy Nguyễn Đức Huy"
+    },
+    {
+      "student": "Đặng Thái Duy",
+      "title_vi": "Hệ thống du lịch tương tác tự nhiên ứng dụng Thực tại Mở rộng",
+      "title_en": "Natural Interactive Travel System with Extended Reality",
+      "advisor": "ThS. Trần Ngọc Đạt Thành\nPGS.TS. Trần Minh Triết"
+    },
+    {
+      "student": "Nguyễn Đại Nghĩa",
+      "title_vi": "Kết hợp Deep Learning và kiến thức y khoa nhận diện một số bất thường trên phim X quang ngực thẳng",
+      "title_en": "Combining deep learning and medical knowledge to detect abnormalities\nin chest X-ray images",
+      "advisor": "PGS.TS. Trần Minh Triết\nThS. Nguyễn Hải Đăng"
+    },
+    {
+      "student": "Nguyễn Trung Thời",
+      "title_vi": "XRSpectator: Hệ thống cộng tác cho trình diễn và dự khán thực tại tăng cường",
+      "title_en": "XRSpectator: Collaborative Platform for Presentation and Spectation in Extended Reality",
+      "advisor": "TS. Lê Khánh Duy"
+    }
+  ]
+}

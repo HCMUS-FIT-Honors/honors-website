@@ -1,0 +1,255 @@
+{
+  "year": 2010,
+  "students": [
+    "Trần Đức Thông",
+    "Nguyễn Hữu Vinh",
+    "Nguyễn Viết Trung",
+    "Nguyễn Hoàng Vinh",
+    "Trần Gia Lạc",
+    "Lê Minh Trí Tuệ",
+    "Trần Công Nguyên",
+    "Nguyễn Minh Sang",
+    "Trần Quang Tánh",
+    "Trương Thuận Tài",
+    "Nguyễn Văn Tạng",
+    "Huỳnh Lê Thái Dương",
+    "Đỗ Đức Trường Thọ",
+    "Nguyễn Ngọc Lưu",
+    "Nguyễn Thanh Minh Triết",
+    "Vũ Khôi Nguyên",
+    "Nguyễn Trần Phi Thông",
+    "Lê Minh",
+    "Trịnh Thị Bình Yên",
+    "Trịnh Ngọc Thuyên",
+    "Nguyễn Như Huân",
+    "Ngô Đình Thương",
+    "Lê Nguyễn Minh Triết",
+    "Đinh Hoài Trung",
+    "Nguyễn Bùi An Trung",
+    "Phan Văn Tấn",
+    "Bùi La Bão",
+    "Nguyễn Huỳnh Nhật Quân",
+    "Hứa Hồng Quân",
+    "Trương Quang Trung",
+    "Châu Ngọc Phương",
+    "Nguyễn Cao Thủ",
+    "Đào Nhật Tuấn",
+    "Mai Vương Minh Nhật",
+    "Thái Minh Đạt",
+    "Nguyễn Văn Viên",
+    "Nguyễn Cao Kỳ",
+    "Nguyễn Hữu Nhân",
+    "Phan Như",
+    "Lê Trương Kinh Thư",
+    "Lương Hiếu Thi",
+    "Dương Duy Khang",
+    "Nguyễn Phú Nghĩa",
+    "Nguyễn Trang Đài",
+    "Nguyễn Trí Trung",
+    "Trần Minh Đô",
+    "Nguyễn Thanh Lộc",
+    "Nguyễn Công Chánh",
+    "Nguyễn Ngô Tuyên",
+    "Phan Duy Nghĩa",
+    "Phạm Ngọc Sơn",
+    "Dương Văn Quang",
+    "Lê Ngọc Thạch",
+    "Nguyễn Hữu Mỹ",
+    "Đặng Cửu Sơn"
+  ],
+  "student_count": 55,
+  "theses": [
+    {
+      "student": "Trần Đức Thông",
+      "title_vi": "Xây dựng ứng dụng lịch bàn cho smartphone",
+      "title_en": "",
+      "advisor": "Nguyễn Tri Tuấn"
+    },
+    {
+      "student": "Nguyễn Viết Trung",
+      "title_vi": "Phát triển hệ thống cảnh báo giao thông trên thiết bị di động",
+      "title_en": "",
+      "advisor": "Nguyễn Tri Tuấn"
+    },
+    {
+      "student": "Trần Gia Lạc",
+      "title_vi": "Phát triển framework cho ứng dụng tương tác thông minh bằng nét vẽ",
+      "title_en": "",
+      "advisor": "Trần Minh Triết, \nNguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Trần Công Nguyên",
+      "title_vi": "Xử lý bóng đổ của các đối tượng di chuyển trong camera giám sát",
+      "title_en": "",
+      "advisor": "Nicolas Saunier,\n Trần Minh Triết"
+    },
+    {
+      "student": "Nguyễn Minh Sang",
+      "title_vi": "Môi trường phần mềm hỗ trợ tương tác thông minh trong không gian 3 chiều",
+      "title_en": "",
+      "advisor": "Wolfgang Stuerzlinger,\n Trần Minh Triết"
+    },
+    {
+      "student": "Trương Thuận Tài",
+      "title_vi": "Phát triển hệ thống xây dựng ứng dụng tương tác đa nền tảng trên thiết bị di động",
+      "title_en": "",
+      "advisor": "Lương Vĩ Minh, \nNguyễn Đức Huy"
+    },
+    {
+      "student": "Huỳnh Lê Thái Dương",
+      "title_vi": "Nghiên cứu và phát triển giải pháp truyền dữ liệu trong nhà dựa vào âm thanh",
+      "title_en": "",
+      "advisor": "Đặng Bình Phương"
+    },
+    {
+      "student": "Nguyễn Ngọc Lưu",
+      "title_vi": "Phát triển hệ thống bảo tàng 3D trên web",
+      "title_en": "",
+      "advisor": "Lương Vĩ Minh, \nNguyễn Đức Huy"
+    },
+    {
+      "student": "Vũ Khôi Nguyên",
+      "title_vi": "Ẩn dữ liệu trong mã vạch ma trận",
+      "title_en": "",
+      "advisor": "Nguyễn Đình Thúc,\n Bùi Văn Thạch"
+    },
+    {
+      "student": "Lê Minh",
+      "title_vi": "Tìm kiếm trên dữ liệu đã mã hóa và ứng dụng",
+      "title_en": "",
+      "advisor": "Nguyễn Đình Thúc,\n Đặng Hải Vân"
+    },
+    {
+      "student": "Trịnh Ngọc Thuyên",
+      "title_vi": "Hiện thực hệ thống kiểm tra định danh và kiểm tra quan hệ cha con sử dụng hệ mã Paillier",
+      "title_en": "",
+      "advisor": "Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Nguyễn Như Huân",
+      "title_vi": "Tấn công hệ mã khoá công khai RSA",
+      "title_en": "",
+      "advisor": "Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Ngô Đình Thương",
+      "title_vi": "Quản lý tài nguyên giữa các website trên hệ thống Apache-Linux",
+      "title_en": "",
+      "advisor": "Trần Trung Dũng"
+    },
+    {
+      "student": "Đinh Hoài Trung",
+      "title_vi": "Cải tiến giải pháp chống rò rỉ dữ liệu sử dụng white-list",
+      "title_en": "",
+      "advisor": "Trần Trung Dũng"
+    },
+    {
+      "student": "Phan Văn Tấn",
+      "title_vi": "Bảo mật trong Điện toán đám mây",
+      "title_en": "",
+      "advisor": "Cao Đăng Tân,\n Lê Ngọc Sơn"
+    },
+    {
+      "student": "Bùi La Bão",
+      "title_vi": "Một số biến thể của mẫu nhị phân cục bộ trong nhận dạng ảnh mặt người",
+      "title_en": "",
+      "advisor": "Lê Hoàng Thái"
+    },
+    {
+      "student": "Hứa Hồng Quân",
+      "title_vi": "Cải tiến mô hình ASM trong bài toán đánh dấu điểm mốc khuôn mặt",
+      "title_en": "",
+      "advisor": "Lê Hoài Bắc,\n Lê Thị Hoàng Ngân"
+    },
+    {
+      "student": "Trương Quang Trung",
+      "title_vi": "Nhận dạng cảm xúc mặt người dựa trên ảnh màu - độ sâu",
+      "title_en": "",
+      "advisor": "Lý Quốc Ngọc"
+    },
+    {
+      "student": "Châu Ngọc Phương",
+      "title_vi": "Khai thác đồ thị dựa trên đa nhân của CPU",
+      "title_en": "",
+      "advisor": "Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Cao Thủ",
+      "title_vi": "Phát triển ứng dụng đo huyết áp trên điện thoại di động sử dụng thông tin hình ảnh và âm thanh",
+      "title_en": "",
+      "advisor": "Trần Thái Sơn"
+    },
+    {
+      "student": "Mai Vương Minh Nhật",
+      "title_vi": "Nhận dạng khuôn mặt xoay",
+      "title_en": "",
+      "advisor": "Vũ Thanh Hưng"
+    },
+    {
+      "student": "Thái Minh Đạt",
+      "title_vi": "Tìm hiểu PhoneGap và xây dựng ứng dụng minh họa",
+      "title_en": "",
+      "advisor": "Bùi Tấn Lộc"
+    },
+    {
+      "student": "Nguyễn Cao Kỳ",
+      "title_vi": "Nghiên cứu và cài đặt giải pháp Mobile Payment với thử nghiệm trên nền tảng Android",
+      "title_en": "",
+      "advisor": "Đinh Bá Tiến"
+    },
+    {
+      "student": "Phan Như",
+      "title_vi": "Hệ thống thu thập và phân tích thông tin phản hồi về chất lượng dịch vụ nhà hàng",
+      "title_en": "",
+      "advisor": "Vũ Hải Quân"
+    },
+    {
+      "student": "Lương Hiếu Thi",
+      "title_vi": "Tìm hiểu lập trình game di động bằng LibGDX",
+      "title_en": "",
+      "advisor": "Bùi Tấn Lộc"
+    },
+    {
+      "student": "Dương Duy Khang",
+      "title_vi": "Ứng dụng Android chia sẻ cách nấu ăn trên nền Google App Engine",
+      "title_en": "",
+      "advisor": "Nguyễn Huy Khánh"
+    },
+    {
+      "student": "Nguyễn Trang Đài",
+      "title_vi": "Phát triển ứng dụng di động đa nền tảng cho hệ thống tương tác hỗ trợ làm việc nhóm",
+      "title_en": "",
+      "advisor": "Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Trần Minh Đô",
+      "title_vi": "Xây dựng chợ thương mại điện tử trên Android",
+      "title_en": "",
+      "advisor": "Phạm Hoàng Hải"
+    },
+    {
+      "student": "Nguyễn Công Chánh",
+      "title_vi": "Phát triển ứng dụng web bằng framework AngularJs",
+      "title_en": "",
+      "advisor": "Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Phan Duy Nghĩa",
+      "title_vi": "Nghiên cứu và xây dựng công cụ hỗ trợ tổng hợp dịch vụ web",
+      "title_en": "",
+      "advisor": "Nguyễn Hoàng Anh"
+    },
+    {
+      "student": "Dương Văn Quang",
+      "title_vi": "CoUML - Ứng dụng thiết kế tương tác trên môi trường Web",
+      "title_en": "",
+      "advisor": "Nguyễn Văn Vũ"
+    },
+    {
+      "student": "Nguyễn Hữu Mỹ",
+      "title_vi": "Phát hiện xung đột ngữ nghĩa giữa các phiên bản mã nguồn thông qua variability-aware execution",
+      "title_en": "",
+      "advisor": "Nguyễn Văn Vũ"
+    }
+  ]
+}

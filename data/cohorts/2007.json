@@ -1,0 +1,139 @@
+{
+  "year": 2007,
+  "students": [
+    "Nguyễn Minh Hùng",
+    "Lê Văn Huy",
+    "Nguyễn Quang Anh",
+    "Nguyễn Tiến Vũ",
+    "Dương Hữu Thành",
+    "Nguyễn Thanh Tòng",
+    "Nguyễn Thị An Nhơn",
+    "Lê Văn Chân",
+    "Dương Tùng Sơn",
+    "Đặng Hoàng Hải",
+    "Trần Thanh Hải",
+    "Huỳnh Thảo Hạnh Duy",
+    "Lê Quang Thảo",
+    "Lê Anh Dũng",
+    "Đàm Quỳnh Giang",
+    "Trần Ngọc Hiệu",
+    "Trịnh Quang Huy",
+    "Lê Hoàng Vũ",
+    "Nguyễn Hoàng Việt",
+    "Trịnh Đắc Thắng",
+    "Nguyễn Tường Minh",
+    "Trần Xuân Tiến",
+    "Nguyễn Bá Huy",
+    "Trần Duy Khang",
+    "Võ Mai Vĩnh Thành",
+    "Huỳnh Lâm Linh",
+    "Lê Anh Khoa",
+    "Phạm Ngọc Vân Anh",
+    "Nguyễn Tấn"
+  ],
+  "student_count": 29,
+  "theses": [
+    {
+      "student": "Nguyễn Minh Hùng",
+      "title_vi": "Vấn đề tích hợp dữ liệu vào kho dữ liệu: khảo sát lý thuyết và xây dựng ứng dụng",
+      "title_en": "",
+      "advisor": "Đồng Thị Bích Thủy"
+    },
+    {
+      "student": "Nguyễn Quang Anh",
+      "title_vi": "Mô phỏng chất lưu",
+      "title_en": "",
+      "advisor": "Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Tiến Vũ",
+      "title_vi": "Phân đoạn đối tượng dùng lát cắt đồ thị",
+      "title_en": "",
+      "advisor": "Lê Hoài Bắc"
+    },
+    {
+      "student": "Dương Hữu Thành",
+      "title_vi": "Nghiên cứu sử dụng wikipedia trong xây dựng hệ thống hỏi đáp cho câu hỏi định nghĩa",
+      "title_en": "",
+      "advisor": "Hồ Bảo Quốc"
+    },
+    {
+      "student": "Nguyễn Thị An Nhơn",
+      "title_vi": "Rút trích thực thể, quan hệ trong văn bản y-sinh học",
+      "title_en": "",
+      "advisor": "Hồ Bảo Quốc"
+    },
+    {
+      "student": "Lê Văn Chân",
+      "title_vi": "Tìm hiểu công nghệ thẻ thông minh và xây dựng ứng dụng minh họa trên Java Card",
+      "title_en": "",
+      "advisor": "Trần Hiển Đạt, Đặng Tuấn Nghĩa"
+    },
+    {
+      "student": "Đặng Hoàng Hải",
+      "title_vi": "Xây dựng hệ thống hỗ trợ biên dịch và chạy chương trình trên môi trường web",
+      "title_en": "",
+      "advisor": "Trần Đan Thư"
+    },
+    {
+      "student": "Huỳnh Thảo Hạnh Duy",
+      "title_vi": "Hệ thống thiết kế và trình diễn bảo tàng nghệ thuật ảo",
+      "title_en": "",
+      "advisor": "Trần Minh Triết, Nguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Lê Anh Dũng",
+      "title_vi": "Hệ thống framework để phát triển ứng dụng với bảng tương tác thông minh",
+      "title_en": "",
+      "advisor": "Trần Minh Triết, Nguyễn Vinh Tiệp"
+    },
+    {
+      "student": "Trần Ngọc Hiệu",
+      "title_vi": "Cấu trúc chỉ mục an toàn trong bảo mật cơ sở dữ liệu",
+      "title_en": "",
+      "advisor": "Nguyễn Đình Thúc"
+    },
+    {
+      "student": "Trịnh Quang Huy",
+      "title_vi": "Triển khai thử nghiệm hệ thống tích hợp liên tục kết hợp với các độ đo phần mềm - Hệ thống quản lý",
+      "title_en": "",
+      "advisor": "Lâm Quang Vũ"
+    },
+    {
+      "student": "Nguyễn Hoàng Việt",
+      "title_vi": "Triển khai thử nghiệm hệ thống tích hợp liên tục kết hợp với các độ đo phần mềm - Các độ đo phần mềm",
+      "title_en": "",
+      "advisor": "Lâm Quang Vũ"
+    },
+    {
+      "student": "Trịnh Đắc Thắng",
+      "title_vi": "Tự động rút trích và tổng hợp thông tin sản phẩm trên Web",
+      "title_en": "",
+      "advisor": "Nguyễn Huy Khánh"
+    },
+    {
+      "student": "Trần Xuân Tiến",
+      "title_vi": "Phát triển thử nghiệm hệ thống mạng xã hội 3D với công nghệ Web3D",
+      "title_en": "",
+      "advisor": "Lương Vĩ Minh, Nguyễn Đức Huy"
+    },
+    {
+      "student": "Trần Duy Khang",
+      "title_vi": "Tìm hiểu và phát triển thử nghiệm hệ thống SaaS với Spring",
+      "title_en": "",
+      "advisor": "Nguyễn Hoàng Anh"
+    },
+    {
+      "student": "Huỳnh Lâm Linh",
+      "title_vi": "Hướng dẫn du lịch với thông tin media tăng cường",
+      "title_en": "",
+      "advisor": "Trần Minh Triết"
+    },
+    {
+      "student": "Phạm Ngọc Vân Anh",
+      "title_vi": "Tìm hiểu Windows Phone 7 SDK và xây dựng ứng dụng minh họa",
+      "title_en": "",
+      "advisor": "Phạm Minh Tuấn"
+    }
+  ]
+}

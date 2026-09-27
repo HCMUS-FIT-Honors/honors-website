@@ -1,0 +1,158 @@
+{
+  "year": 2004,
+  "students": [
+    "Phan Ðình Lộc",
+    "Thái Bảo Ngọc",
+    "Trần Mộng Hằng",
+    "Lê Đỗ Tuấn Khanh",
+    "Lê Thanh Tâm",
+    "Nguyễn Sơn Hoàng Quốc",
+    "Tô Xuân Khôi Nguyên",
+    "Đoàn Chánh Thức",
+    "Trần Thị Ngọc Quyên",
+    "Bùi Thanh Vinh",
+    "Đỗ Quang Anh",
+    "Đỗ Văn Tiến Đạt",
+    "Bùi Minh Tuấn",
+    "Hà Quang Ðộ",
+    "Tô Duy Huyền",
+    "Nguyễn Thế Hiệp",
+    "Triệu Tráng Khôn",
+    "Đặng Thị Thanh Nguyên",
+    "Phạm Hoàng Hải",
+    "Trương Phước Lộc",
+    "Trần Hồng Nam",
+    "Phạm Trọng Nghĩa",
+    "Nguyễn Ngọc Hải",
+    "Nguyễn Mạnh Tuấn",
+    "Quách Khả Gia",
+    "Dương Chí Nhân",
+    "Lê Nhật Minh",
+    "Nguyễn Trường Đức Trí",
+    "Nguyễn Kim Hưng",
+    "Nguyễn Quang Huy",
+    "Ðinh Trung Thảo",
+    "Lê Phong",
+    "Vũ Thanh Hưng",
+    "Trần Bình Ái Quang",
+    "Đinh Việt Hải",
+    "Phạm Văn Thiện"
+  ],
+  "student_count": 36,
+  "theses": [
+    {
+      "student": "Phan Ðình Lộc",
+      "title_vi": "Tìm hiểu hướng tiếp cận MDA và bài tóan chuyển đổi mô hình với ngôn ngữ Kermeta",
+      "title_en": "",
+      "advisor": "Trần Hạnh Nhi"
+    },
+    {
+      "student": "Trần Mộng Hằng",
+      "title_vi": "Công nghệ IPhone và ứng dụng quản lý tập tin trên Iphone",
+      "title_en": "",
+      "advisor": "Đỗ Hoàng Cường"
+    },
+    {
+      "student": "Lê Thanh Tâm",
+      "title_vi": "Nghiên cứu và xây dựng thử nghiệm hệ thống Identity Metasystem",
+      "title_en": "",
+      "advisor": "Trần Minh Triết"
+    },
+    {
+      "student": "Tô Xuân Khôi Nguyên",
+      "title_vi": "Nghiên cứu và xây dựng từ điển trên G-Phone",
+      "title_en": "",
+      "advisor": "Bùi Tấn Lộc, Trần Minh Triết"
+    },
+    {
+      "student": "Trần Thị Ngọc Quyên",
+      "title_vi": "Tìm hiểu về mô hình hóa quy trình nghiệp vụ và luồng công việc",
+      "title_en": "",
+      "advisor": "Lâm Quang Vũ"
+    },
+    {
+      "student": "Đỗ Quang Anh",
+      "title_vi": "Công nghệ Flex 3.0 trong ứng dụng bán vé nhà hát qua mạng",
+      "title_en": "",
+      "advisor": "Lâm Quang Vũ"
+    },
+    {
+      "student": "Bùi Minh Tuấn",
+      "title_vi": "Tìm hiểu công nghệ JavaFX và xây dựng hệ thống bán vé nhà hát qua mạng",
+      "title_en": "",
+      "advisor": "Trần Minh Triết"
+    },
+    {
+      "student": "Tô Duy Huyền",
+      "title_vi": "Tìm hiểu công nghệ Silverlight và ứng dụng xây dựng trang bán vé online",
+      "title_en": "",
+      "advisor": "Lâm Quang Vũ"
+    },
+    {
+      "student": "Triệu Tráng Khôn",
+      "title_vi": "Nghiên cứu thuật toán sắp thời khóa biểu cho trường Đại học",
+      "title_en": "",
+      "advisor": "Nguyễn Tấn Trần Minh Khang"
+    },
+    {
+      "student": "Phạm Hoàng Hải",
+      "title_vi": "Ứng dụng GIS và thiết bị định vị toàn cầu vào bài toán bản đồ trên điện thoại di động và điều phối giao thông",
+      "title_en": "",
+      "advisor": "Đinh Bá Tiến"
+    },
+    {
+      "student": "Trần Hồng Nam",
+      "title_vi": "Nhận dạng sinh trắc học dựa vào vân tay và mặt người",
+      "title_en": "",
+      "advisor": "Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Ngọc Hải",
+      "title_vi": "Nâng cao chất lượng nhận dạng tiếng nói tiếng Việt sử dụng nhận dạng nhiều bước",
+      "title_en": "",
+      "advisor": "Vũ Hải Quân"
+    },
+    {
+      "student": "Quách Khả Gia",
+      "title_vi": "Các phương pháp nhúng thông tin bản quyền trên video số",
+      "title_en": "",
+      "advisor": "Lê Hoài Bắc"
+    },
+    {
+      "student": "Lê Nhật Minh",
+      "title_vi": "Thử nghiệm một số phương pháp truy vấn âm nhạc dựa vào giai điệu",
+      "title_en": "",
+      "advisor": "Vũ Hải Quân"
+    },
+    {
+      "student": "Nguyễn Kim Hưng",
+      "title_vi": "Phương pháp ẩn vân tay vào ảnh",
+      "title_en": "",
+      "advisor": "Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Quang Huy",
+      "title_vi": "Tách đối tượng bằng phương pháp mô hình hóa ảnh nền",
+      "title_en": "",
+      "advisor": "Phạm Nam Trung, Vũ Hải Quân"
+    },
+    {
+      "student": "Lê Phong",
+      "title_vi": "Theo vết nhiều đối tượng bằng phương pháp PHD filter",
+      "title_en": "",
+      "advisor": "Phạm Nam Trung"
+    },
+    {
+      "student": "Vũ Thanh Hưng",
+      "title_vi": "Nhận dạng ký hiệu múa dấu tiếng Việt",
+      "title_en": "",
+      "advisor": "Lê Hoài Bắc, Lưu Khoa"
+    },
+    {
+      "student": "Đinh Việt Hải",
+      "title_vi": "Thiết bị khóa cứng USB Dongle",
+      "title_en": "",
+      "advisor": "Nguyễn Tri Tuấn, Trương Thiên Đỉnh"
+    }
+  ]
+}

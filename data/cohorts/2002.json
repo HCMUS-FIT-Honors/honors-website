@@ -1,0 +1,125 @@
+{
+  "year": 2002,
+  "students": [
+    "Phạm Đức Long",
+    "Nguyễn Thị Hà Thanh",
+    "Trịnh Quốc Huy",
+    "Trần Ngọc Quân",
+    "Đặng Minh Châu",
+    "Mai Thành Phước",
+    "Nguyễn Quý Hòa",
+    "Lê Trọng Đức",
+    "Nguyễn Phi Vũ",
+    "Nguyễn Ngọc Tâm",
+    "Dương Nguyễn Thạch Thảo",
+    "Nguyễn Ngọc Quang",
+    "Nguyễn Hoàng Khôi",
+    "Phạm Ngọc Duy",
+    "Đặng Trần Minh Hậu",
+    "Nguyễn Cao Trường Hải",
+    "Nguyễn Hoàng Dũng",
+    "Nguyễn Hoàng Chương",
+    "Lâm Xuân Nhật",
+    "Nguyễn Phan Tấn",
+    "Đặng Nguyễn Đức Tiến"
+  ],
+  "student_count": 21,
+  "theses": [
+    {
+      "student": "Phạm Đức Long",
+      "title_vi": "Các phương pháp đánh giá hệ hỗ trợ cộng tác và áp dụng trong đánh giá về thông tin awareness",
+      "title_en": "",
+      "advisor": "GV. Đỗ Lệnh Hùng Sơn"
+    },
+    {
+      "student": "Nguyễn Thị Hà Thanh",
+      "title_vi": "Dự đoán cấu trúc bậc hai của protein từ chuỗi Amino Acid",
+      "title_en": "",
+      "advisor": "PGS. TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Trần Ngọc Quân",
+      "title_vi": "Nghiên cứu thuật toán phân lớp Homogenous-based và ứng dụng chẩn đoán ung thư.",
+      "title_en": "",
+      "advisor": "ThS. Chu Tất Bích San"
+    },
+    {
+      "student": "Đặng Minh Châu",
+      "title_vi": "Nghiên cứu và xây dựng công cụ hỗ trợ đánh giá độ tin cậy của người tham gia bán đấu giá trên hệ thống bán hàng trực tuyến",
+      "title_en": "",
+      "advisor": "TS. Dương Anh Đức\n TS. Huỳnh Trung Đông"
+    },
+    {
+      "student": "Nguyễn Quý Hòa",
+      "title_vi": "Nghiên cứu công nghệ SOA và triển khai một ứng dụng thương mại điện tử",
+      "title_en": "",
+      "advisor": "TS. Hồ Bảo Quốc"
+    },
+    {
+      "student": "Lê Trọng Đức",
+      "title_vi": "Phân tích web (web analytics)",
+      "title_en": "",
+      "advisor": "ThS. Đỗ Hoàng Cường"
+    },
+    {
+      "student": "Nguyễn Phi Vũ",
+      "title_vi": "Tìm hiểu lọc phi tuyến, lọc Particle và ứng dụng trong hệ thống theo dõi giao thông",
+      "title_en": "",
+      "advisor": "PGS. TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Ngọc Tâm",
+      "title_vi": "LVQ và tập thô áp dụng vào bài toán Skin Detection",
+      "title_en": "",
+      "advisor": "PGS. TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Dương Nguyễn Thạch Thảo",
+      "title_vi": "Truy tìm ảnh dựa trên phả hệ tri thức thị giác và chú thích ảnh tự động",
+      "title_en": "",
+      "advisor": "ThS. Lý Quốc Ngọc"
+    },
+    {
+      "student": "Nguyễn Ngọc Quang",
+      "title_vi": "Nhóm ảnh tự động qua mạng nơron",
+      "title_en": "",
+      "advisor": "PGS. TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Hoàng Khôi",
+      "title_vi": "Nghiên cứu phương pháp sinh trắc học dựa vào mắt người",
+      "title_en": "",
+      "advisor": "TS. Dương Anh Đức"
+    },
+    {
+      "student": "Phạm Ngọc Duy",
+      "title_vi": "Nhận dạng tiếng nói tiếng Việt trên máy PDA",
+      "title_en": "",
+      "advisor": "ThS. Thái Hùng Văn"
+    },
+    {
+      "student": "Nguyễn Cao Trường Hải",
+      "title_vi": "Một số cải tiến nâng cao chất lượng cho hệ thống nhận dạng tiếng Việt",
+      "title_en": "",
+      "advisor": "PGS. TS. Lê Hoài Bắc"
+    },
+    {
+      "student": "Nguyễn Hoàng Chương",
+      "title_vi": "Nghiên cứu hướng tiếp cận hiệu quả để render một đoạn phim 3D stereoscopic",
+      "title_en": "",
+      "advisor": "TS. Dương Anh Đức\n TS. Min-Ho Kyung"
+    },
+    {
+      "student": "Lâm Xuân Nhật",
+      "title_vi": "Lọc cộng tác dựa trên nội dung để giải quyết vấn đề coldstart",
+      "title_en": "",
+      "advisor": "TS. Dương Anh Đức \n Vũ Duy Thức"
+    },
+    {
+      "student": "Nguyễn Phan Tấn",
+      "title_vi": "Tích hợp thông tin hình học và topo vào bài toán Shape Matching",
+      "title_en": "",
+      "advisor": "TS. Dương Anh Đức"
+    }
+  ]
+}

@@ -54,3 +54,10 @@ footer{background:#041b32;color:#b9c9d8;padding:30px 0}.footer{display:flex;just
     font-size:.9em;
   }
 }
+
+/* v5 cohort data pages */
+.student-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-top:18px}
+.student-name{background:#fff;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:14px}
+.thesis-list{display:grid;gap:13px;margin-top:18px}.thesis{background:#fff;border:1px solid var(--line);border-left:4px solid var(--orange);border-radius:12px;padding:16px}
+.thesis h3{font-size:16px;margin:0 0 6px;color:var(--navy)}.thesis p{margin:4px 0;color:var(--muted);font-size:13px}.source-note{font-size:12px;color:var(--muted);margin-top:16px}
+@media(max-width:760px){.student-grid{grid-template-columns:1fr 1fr}}@media(max-width:480px){.student-grid{grid-template-columns:1fr}}
