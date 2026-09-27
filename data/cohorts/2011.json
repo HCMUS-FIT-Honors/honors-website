@@ -1,7 +1,7 @@
 {
   "year": 2011,
+  "student_count": 36,
   "students": [
-    "Nguyễn Trường Duy",
     "Nguyễn Hữu Trung",
     "Nguyễn Thanh Tấn",
     "Nguyễn Hoài Nam",
@@ -39,133 +39,6 @@
     "Nguyễn Hữu Thiện",
     "Phạm Minh Quân"
   ],
-  "student_count": 37,
-  "theses": [
-    {
-      "student": "Nguyễn Trường Duy",
-      "title_vi": "Mạng xã hội thể thao dựa trên Ruby on Rails, AngularJS và MongoDB",
-      "title_en": "",
-      "advisor": "ThS. Nguyễn Huy Khánh"
-    },
-    {
-      "student": "Nguyễn Thanh Tấn",
-      "title_vi": "Game đối kháng 3D dựa trên Adreno SDK",
-      "title_en": "",
-      "advisor": "ThS. Nguyễn Huy Khánh"
-    },
-    {
-      "student": "Phan Dương Tiển",
-      "title_vi": "Chứng thực với thiết bị di động cho môi trường tương tác thông minh",
-      "title_en": "",
-      "advisor": "PGS.TS. Trần Minh Triết\nThS. Trương Toàn Thịnh"
-    },
-    {
-      "student": "Võ Lâm Khánh Duy",
-      "title_vi": "Môi trường thực tại ảo với tương tác tự nhiên",
-      "title_en": "",
-      "advisor": "PGS.TS. Trần Minh Triết\nThS. Nguyễn Vinh Tiệp"
-    },
-    {
-      "student": "Đỗ Trung Đức",
-      "title_vi": "Giải pháp phần mềm bảo vệ chống thất thoát dữ liệu trên máy tính cá nhân",
-      "title_en": "",
-      "advisor": "PGS.TS. Trần Minh Triết\nThS. Lương Vĩ Minh"
-    },
-    {
-      "student": "Nguyễn Duy Hoàng",
-      "title_vi": "Tổng hợp tiếng nói Tiếng Việt bằng phương pháp ghép nối diphone",
-      "title_en": "",
-      "advisor": "PGS.TS. Vũ Hải Quân"
-    },
-    {
-      "student": "Nguyễn Công Thiên",
-      "title_vi": "Game 3D Tower Defense trên thiết bị di động",
-      "title_en": "",
-      "advisor": "ThS. Bùi Tấn Lộc"
-    },
-    {
-      "student": "Lê Minh Chánh",
-      "title_vi": "Nghiên cứu và triển khai hệ thống bảo vệ cơ bản trên cloud host",
-      "title_en": "",
-      "advisor": "GVC.Cao Đăng Tân\n ThS. Nguyễn Tấn Cầm"
-    },
-    {
-      "student": "Đào Tiến Quang",
-      "title_vi": "Tìm hiểu và cải tiến cài đặt của giao thức RTP trên Linphone khi bị mất gói tin mà không làm tăng độ trễ trên kênh truyền video",
-      "title_en": "",
-      "advisor": "GVC. Cao Đăng Tân\n Th.S Nguyễn Tấn Cẩm"
-    },
-    {
-      "student": "Nguyễn Thành Thuật",
-      "title_vi": "Xây dựng ứng dụng nhận diện buồn ngủ khi lái xe thông qua đồng hồ thông minh trên Android",
-      "title_en": "",
-      "advisor": "TS. Lê Mai Tùng\n ThS. Lê Ngọc Thành"
-    },
-    {
-      "student": "Phạm Thượng Hải",
-      "title_vi": "Đề xuất phương pháp phân lớp tình trạng buồn ngủ và tỉnh táo dựa trên học đặc trưng không giám sát kết hợp với SVM",
-      "title_en": "",
-      "advisor": "TS. Lê Mai Tùng\nThS. Lê Ngọc Thành"
-    },
-    {
-      "student": "Nguyễn Thị Mỹ Duyên",
-      "title_vi": "Phương pháp học bán giám sát cho bài toán phân tích ý kiến người dùng trên dữ liệu tiếng Việt",
-      "title_en": "",
-      "advisor": "PGS.TS. Lê Hoài Bắc"
-    },
-    {
-      "student": "Lê Tấn Đăng Khoa",
-      "title_vi": "Kết hợp đặc trưng quỹ đạo và thông tin độ sâu cho nhận dạng hành động người trong video.",
-      "title_en": "",
-      "advisor": "PGS.TS. Lê Hoàng Thái\nThS. Trương Phước Hưng"
-    },
-    {
-      "student": "Lê Tiến Tài",
-      "title_vi": "Ứng dụng di động biến đổi ảnh chụp thành tranh vẽ hoặc ảnh nghệ thuật",
-      "title_en": "",
-      "advisor": "PGS.TS. Lê Hoàng Thái\nThS. Trương Phước Hưng"
-    },
-    {
-      "student": "Võ Đình Tuệ Minh",
-      "title_vi": "Các mô hình tính toán trên không gian Manifold cho dữ liệu ảnh mặt người",
-      "title_en": "",
-      "advisor": "PGS.TS. Lê Hoàng Thái\nThS. Trương Phước Hưng"
-    },
-    {
-      "student": "Nguyễn Trường Nhân",
-      "title_vi": "Hệ thống hỗ trợ nghiệp vụ cho nhà hàng",
-      "title_en": "",
-      "advisor": "TS. Đinh Bá Tiến"
-    },
-    {
-      "student": "Võ Phi Hùng",
-      "title_vi": "Hệ thống hỗ trợ bán hàng tại cửa hàng trên nền tảng Android",
-      "title_en": "",
-      "advisor": "TS. Đinh Bá Tiến"
-    },
-    {
-      "student": "Nguyễn Trí Luận Ngữ",
-      "title_vi": "Nghiên cứu và xây dựng hệ thống hỏi đáp trên văn bản luật",
-      "title_en": "",
-      "advisor": "TS. Hồ Bảo Quốc"
-    },
-    {
-      "student": "Nguyễn Tấn Đô",
-      "title_vi": "Hệ thống điểm thưởng trên thiết bị di động dùng Android",
-      "title_en": "",
-      "advisor": "TS. Đinh Bá Tiến"
-    },
-    {
-      "student": "Trần Ngọc Lam",
-      "title_vi": "Nghiên cứu và xây dựng hệ thống quản lý giao hàng",
-      "title_en": "",
-      "advisor": "TS. Đinh Bá Tiến\nTS. Tô Bá Lâm"
-    },
-    {
-      "student": "Nguyễn Hữu Thiện",
-      "title_vi": "Ứng dụng Web so sánh mã nguồn và ước lượng dự án theo COCOMO",
-      "title_en": "",
-      "advisor": "TS. Nguyễn Văn Vũ"
-    }
-  ]
+  "thesis_count": 0,
+  "theses": []
 }

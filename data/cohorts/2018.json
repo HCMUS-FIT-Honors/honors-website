@@ -1,5 +1,6 @@
 {
   "year": 2018,
+  "student_count": 59,
   "students": [
     "Đào Thành Đạt",
     "Võ Ngọc Mẫn",
@@ -61,184 +62,244 @@
     "Lê Thị Tuyết Trinh",
     "Võ Xuân Đức Thắng"
   ],
-  "student_count": 59,
+  "thesis_count": 30,
   "theses": [
     {
-      "student": "Đào Thành Đạt",
+      "students": [
+        "Đào Thành Đạt"
+      ],
       "title_vi": "Ứng dụng hỗ trợ quản lý bán hàng đa nền tảng thương mại điện tử",
       "title_en": "",
       "advisor": "TS. Đinh Bá Tiến"
     },
     {
-      "student": "Trần Duy Đạt",
+      "students": [
+        "Trần Duy Đạt"
+      ],
       "title_vi": "Truyền phong cách trên khuôn mặt người hai chiều",
       "title_en": "3D Face Style Transfer",
       "advisor": "ThS. Phạm Minh Hoàng\nPGS.TS. Lý Quốc Ngọc"
     },
     {
-      "student": "Nguyễn Hoàng Dũng",
+      "students": [
+        "Nguyễn Hoàng Dũng"
+      ],
       "title_vi": "Hệ mật mã sinh trắc học dựa trên mô hình trích xuất mờ",
       "title_en": "",
       "advisor": "PGS.TS. Nguyễn Đình Thúc \nThS. Trần Hà Lâm"
     },
     {
-      "student": "Trần Quang Duy",
+      "students": [
+        "Trần Quang Duy"
+      ],
       "title_vi": "Phân lớp ảnh khả diễn giải bằng tập luật Prototype",
       "title_en": "",
       "advisor": "GS.TS. Lê Hoài Bắc"
     },
     {
-      "student": "Nguyễn Đăng Khoa",
+      "students": [
+        "Nguyễn Đăng Khoa"
+      ],
       "title_vi": "Kết hợp thông tin bổ sung vào nhúng đồ thị để hoàn thiện đồ thị tri thức",
       "title_en": "",
       "advisor": "GS.TS. Lê Hoài Bắc"
     },
     {
-      "student": "Phạm Minh Khôi",
+      "students": [
+        "Phạm Minh Khôi"
+      ],
       "title_vi": "Phân đoạn bán giám sát các cơ quan nội tạng trong dữ liệu CT 3 chiều bằng phương pháp tinh chỉnh mặt nạ lan truyền",
       "title_en": "Smart Medical Assistance with Deep Vision",
       "advisor": "PGS.TS. Trần Minh Triết"
     },
     {
-      "student": "Dương Anh Kiệt",
+      "students": [
+        "Dương Anh Kiệt"
+      ],
       "title_vi": "Tăng cường chứng thực mặt người với mạng nhận diện khuôn mặt sử dụng hàm Large-Margin Cotangent Loss",
       "title_en": "",
       "advisor": "TS. Trương Toàn Thịnh"
     },
     {
-      "student": "Lê Hạnh Linh",
+      "students": [
+        "Lê Hạnh Linh"
+      ],
       "title_vi": "Metaheuristics cho bài toán trích chọn đặc trưng",
       "title_en": "A Metaheuristic Optimization Algorithm in Feature Selection",
       "advisor": "GS.TS. Lê Hoài Bắc"
     },
     {
-      "student": "Đoàn Văn Thanh An",
+      "students": [
+        "Đoàn Văn Thanh An"
+      ],
       "title_vi": "Ứng dụng quản lý và kết nối mentor với sinh viên",
       "title_en": "",
       "advisor": "TS. Lâm Quang Vũ"
     },
     {
-      "student": "Nguyễn Tuấn Anh",
+      "students": [
+        "Nguyễn Tuấn Anh"
+      ],
       "title_vi": "Đề xuất phương pháp cho bài toán phân loại mất cân bằng",
       "title_en": "Proposed classifier for Long tail Recognition",
       "advisor": "GS.TS. Lê Hoài Bắc\nTS. Nguyễn Quang Anh (Imperial College London, U.K.)"
     },
     {
-      "student": "Đoàn Phú Đức",
+      "students": [
+        "Đoàn Phú Đức"
+      ],
       "title_vi": "Phân đoạn thực thể cảm ngữ cảnh và ứng dụng",
       "title_en": "Smart Interactive Assistance with Deep Vision for Visual Instance Understanding",
       "advisor": "PGS.TS. Trần Minh Triết\nPGS.TS. Nguyễn Văn Tâm (University of Dayton, U.S.A)"
     },
     {
-      "student": "Phan Đình Kha",
+      "students": [
+        "Phan Đình Kha"
+      ],
       "title_vi": "Sử dụng học biểu diễn để tăng cường bảo mật và hiệu năng của hệ thống xác thực giọng nói có hỗ trợ bảo vệ quyền riêng tư",
       "title_en": "DNN-based Voice Feature Representation Learning",
       "advisor": "PGS.TS. Nguyễn Đình Thúc \nThS. Trần Hà Lâm"
     },
     {
-      "student": "Phạm Trọng Long",
+      "students": [
+        "Phạm Trọng Long"
+      ],
       "title_vi": "Hệ thống hỗ trợ hội nghị trực tuyến trong môi trường ảo",
       "title_en": "",
       "advisor": "ThS. Trần Ngọc Đạt Thành"
     },
     {
-      "student": "Nguyễn Anh Minh",
+      "students": [
+        "Nguyễn Anh Minh"
+      ],
       "title_vi": "Điều tra số dựa trên bộ nhớ của các thiết bị IoT không phụ thuộc vào hệ điều hành",
       "title_en": "",
       "advisor": "ThS. Trần Anh Duy"
     },
     {
-      "student": "Trần Bảo Nguyên",
+      "students": [
+        "Trần Bảo Nguyên"
+      ],
       "title_vi": "Website hỗ trợ quy trình tuyển dụng trong việc dạy kèm trực tuyến",
       "title_en": "",
       "advisor": "ThS. Nguyễn Huy Khánh\nThS. Phạm Hoàng Hải"
     },
     {
-      "student": "Nguyễn Hoàng Quân",
+      "students": [
+        "Nguyễn Hoàng Quân"
+      ],
       "title_vi": "Học tái biểu diễn cho nhận diện hành vi con người bất biến với góc nhìn",
       "title_en": "Neural Rendering for Driver Monitoring System",
       "advisor": "TS. Trần Thái Sơn\nPGS,TS. Lưu Khoa (University of Arkansas, U.S.A)"
     },
     {
-      "student": "Trần Quốc Thắng",
+      "students": [
+        "Trần Quốc Thắng"
+      ],
       "title_vi": "Xây dựng thư viện và công cụ cho pháp chứng ảnh số",
       "title_en": "",
       "advisor": "ThS. Trần Anh Duy\nPGS.TS. Đặng Nguyễn Đức Tiến (University of Bergen, Norway)"
     },
     {
-      "student": "Lê Quang Vũ",
+      "students": [
+        "Lê Quang Vũ"
+      ],
       "title_vi": "Hệ thống hỗ trợ giảng dạy khoa học sức khỏe",
       "title_en": "",
       "advisor": "ThS. Trần Ngọc Đạt Thành"
     },
     {
-      "student": "Nguyễn Đại Dương",
+      "students": [
+        "Nguyễn Đại Dương"
+      ],
       "title_vi": "Ứng dụng Order-of-item hashing để bảo vệ quyền riêng tư trong hệ thống chứng thực người dùng bằng giọng nói",
       "title_en": "",
       "advisor": "PGS.TS. Nguyễn Đình Thúc \nThS. Trần Hà Lâm"
     },
     {
-      "student": "Lê Hồng Huy",
+      "students": [
+        "Lê Hồng Huy"
+      ],
       "title_vi": "Phân tích tính cuốn hút của Video YouTube sử dụng học sâu đa phương thức",
       "title_en": "",
       "advisor": "TS. Nguyễn Tiến Huy"
     },
     {
-      "student": "Trần Quang Huy",
+      "students": [
+        "Trần Quang Huy"
+      ],
       "title_vi": "Hệ thống cấp phép phần mềm dựa trên công nghệ Blockchain",
       "title_en": "",
       "advisor": "ThS. Trần Văn Quý"
     },
     {
-      "student": "Trương Trọng Lộc",
+      "students": [
+        "Trương Trọng Lộc"
+      ],
       "title_vi": "Hệ thống gán nhãn thông minh với trợ giúp bán tự động",
       "title_en": "Intelligent Annotation System with Semi-Automatic Assistance",
       "advisor": "PGS.TS. Trần Minh Triết"
     },
     {
-      "student": "Trần Nhật Việt",
+      "students": [
+        "Trần Nhật Việt"
+      ],
       "title_vi": "Ứng dụng các thuật toán dựa trên Policy Gradient trong mô trường MuJoCo",
       "title_en": "",
       "advisor": "TS. Bùi Tiến Lên"
     },
     {
-      "student": "Trần Tuấn Đạt",
+      "students": [
+        "Trần Tuấn Đạt"
+      ],
       "title_vi": "Một nghiên cứu thử nghiệm về lưu trữ phi tập trung",
       "title_en": "Decentralized storage platform: an experimental study",
       "advisor": "PGS.TS. Nguyễn Đình Thúc"
     },
     {
-      "student": "Nguyễn Hoàng Thái Dương",
+      "students": [
+        "Nguyễn Hoàng Thái Dương"
+      ],
       "title_vi": "Tìm hiểu eBPF, cilium và phát triển một hệ thống giảm thiểu các cuộc tấn công mạng (DDOS)",
       "title_en": "",
       "advisor": "ThS. Lê Giang Thanh"
     },
     {
-      "student": "Phan Long Hiếu",
+      "students": [
+        "Phan Long Hiếu"
+      ],
       "title_vi": "Đồ thị lớn: thuật toán và ứng dụng",
       "title_en": "",
       "advisor": "PGS.TS. Nguyễn Đình Thúc"
     },
     {
-      "student": "Lê Minh Khoa",
+      "students": [
+        "Lê Minh Khoa"
+      ],
       "title_vi": "Phát hiện thay đổi ở mức độ vật thể sử dụng học sâu cho hình ảnh quan sát Trái Đất",
       "title_en": "Change Detection for Catastrophic Loss Assessment (CDL)",
       "advisor": "GS.TS, Lê Hoài Bắc\nTS. Võ Đình Phong"
     },
     {
-      "student": "Trương Trung Nhân",
+      "students": [
+        "Trương Trung Nhân"
+      ],
       "title_vi": "Diễn giải quyết định của mô hình học máy trong hệ thống trả lời câu hỏi dựa vào thị giác",
       "title_en": "Explainable AI (XAI)",
       "advisor": "GS.TS. Lê Hoài Bắc"
     },
     {
-      "student": "Trần Quang Tiến",
+      "students": [
+        "Trần Quang Tiến"
+      ],
       "title_vi": "Phát hiện thông tin sai lệch giữa ảnh và tiêu đề bằng máy học",
       "title_en": "",
       "advisor": "ThS. Trần Anh Duy\nPGS.TS. Đặng Nguyễn Đức Tiến\n(University of Bergen, Norway)"
     },
     {
-      "student": "Lê Thị Tuyết Trinh",
+      "students": [
+        "Lê Thị Tuyết Trinh"
+      ],
       "title_vi": "Ứng dụng kết nối nhãn hàng và KOLs/influencers",
       "title_en": "",
       "advisor": "TS. Đinh Bá Tiến"

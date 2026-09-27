@@ -1,5 +1,6 @@
 {
   "year": 2017,
+  "student_count": 62,
   "students": [
     "Phạm Việt Nga",
     "Nguyễn Thị Minh Thùy",
@@ -64,220 +65,292 @@
     "Nguyễn Phúc Khang",
     "Phạm Hữu Vinh"
   ],
-  "student_count": 62,
+  "thesis_count": 36,
   "theses": [
     {
-      "student": "Phạm Việt Nga",
+      "students": [
+        "Phạm Việt Nga"
+      ],
       "title_vi": "Dealbee: Hệ thống chia sẻ khuyến mãi",
       "title_en": "Dealbee: A system for sharing deals",
       "advisor": "TS.Nguyễn Văn Vũ"
     },
     {
-      "student": "Nguyễn Xuân Vỹ",
+      "students": [
+        "Nguyễn Xuân Vỹ"
+      ],
       "title_vi": "Ứng dụng hỗ trợ cứu nạn lũ lụt",
       "title_en": "Application for support people after floods",
       "advisor": "TS. Đinh Bá Tiến"
     },
     {
-      "student": "Phan Đặng Hoài Bảo",
+      "students": [
+        "Phan Đặng Hoài Bảo"
+      ],
       "title_vi": "Ứng dụng hỗ trợ và quản lý phân phối quyên góp đến người dân sau lũ lụt",
       "title_en": "Application to support and manage donation delivery to people after floods",
       "advisor": "TS. Đinh Bá Tiến"
     },
     {
-      "student": "Võ Tấn Đạt",
+      "students": [
+        "Võ Tấn Đạt"
+      ],
       "title_vi": "Daivita - ứng dụng theo dõi đường huyết và kết nối bệnh nhân đái tháo đường với bác sĩ",
       "title_en": "Daivita - an application to monitor blood sugar and connect diabetics with doctors",
       "advisor": "TS. Nguyễn Văn Vũ"
     },
     {
-      "student": "Lê Hoàng Vũ",
+      "students": [
+        "Lê Hoàng Vũ"
+      ],
       "title_vi": "Xây dựng và thử nghiệm kiến trúc phân tích dữ liệu theo thời gian thực sử dụng Apache Spark",
       "title_en": "Developing a real time data analytics architecture based on Apache Spark and building some experiments.",
       "advisor": "TS. Nguyễn Trần Minh Thư"
     },
     {
-      "student": "Lê Xuân Cường",
+      "students": [
+        "Lê Xuân Cường"
+      ],
       "title_vi": "Hasiti: Ứng dụng giả lập mẫu tóc bằng mạng học sâu",
       "title_en": "Hasiti: Application to simulate hairstyle based on Deep Learning Network",
       "advisor": "ThS. Lương Vĩ Minh\n CN. Nguyễn Đức Huy"
     },
     {
-      "student": "Lâm Thành Lộc",
+      "students": [
+        "Lâm Thành Lộc"
+      ],
       "title_vi": "Xây dựng hệ thống tìm kiếm tế bào tương tự trong dữ liệu nghiên cứu giải trình tự tế bào đơn",
       "title_en": "Search engine for cells in single-cell RNA sequencing database",
       "advisor": "TS. Phạm Kim Sơn (BioTuring)"
     },
     {
-      "student": "Nguyễn Thanh Tùng",
+      "students": [
+        "Nguyễn Thanh Tùng"
+      ],
       "title_vi": "Công cụ biểu diễn quỹ đạo phát triển từ dữ liệu giải trình tự đơn bào",
       "title_en": "Interactive trajectory detection for tracing cell fates in scRNA-seq data",
       "advisor": "TS. Phạm Kim Sơn (BioTuring)"
     },
     {
-      "student": "Lê Nguyên Trí",
+      "students": [
+        "Lê Nguyên Trí"
+      ],
       "title_vi": "Hệ thống quảng cáo bằng bảng hiệu kỹ thuật số kết hợp phân tích người xem",
       "title_en": "Digital Signage Advertising System with Viewer Analysis",
       "advisor": "TS. Đinh Bá Tiến"
     },
     {
-      "student": "Nguyễn Xuân Thắng",
+      "students": [
+        "Nguyễn Xuân Thắng"
+      ],
       "title_vi": "Phát hiện mô hình giá và đưa ra dự đoán sử dụng Deep Learning",
       "title_en": "Price pattern detection and prediction using Deep Learning",
       "advisor": "ThS. Trần Văn Quý"
     },
     {
-      "student": "Trần Đình Tôn Hiếu",
+      "students": [
+        "Trần Đình Tôn Hiếu"
+      ],
       "title_vi": "Nghiên cứu và xây dựng hệ thống hỗ trợ học tập trực tuyến trên thiết bị di động",
       "title_en": "Research and develop an online learning assistance system on mobile device",
       "advisor": "ThS. Lương Vĩ Minh\n CN. Nguyễn Đức Huy"
     },
     {
-      "student": "Ngô Phan Nhật Lâm",
+      "students": [
+        "Ngô Phan Nhật Lâm"
+      ],
       "title_vi": "Hệ thống truy xuất nguồn gốc hàng hóa",
       "title_en": "Traceability System",
       "advisor": "TS.Nguyễn Văn Vũ"
     },
     {
-      "student": "Nguyễn Ngọc Tú",
+      "students": [
+        "Nguyễn Ngọc Tú"
+      ],
       "title_vi": "Kết hợp giữa nhận diện thực thể và chuẩn hóa thực thể bằng phương pháp học sâu",
       "title_en": "Joint Named Entity Recognition and Normalisation Using Deep Learning",
       "advisor": "TS. Nguyễn Thị Hồng Nhung"
     },
     {
-      "student": "Lê Tuấn Đạt",
+      "students": [
+        "Lê Tuấn Đạt"
+      ],
       "title_vi": "Tối ưu hóa chuỗi cung ứng bằng phương pháp học tăng cường sâu",
       "title_en": "Logistics Optimization based on Deep Reinforcement Learning",
       "advisor": "PGS TS Lý Quốc Ngọc\n ThS. Phạm Minh Hoàng"
     },
     {
-      "student": "Nguyễn Khánh Toàn",
+      "students": [
+        "Nguyễn Khánh Toàn"
+      ],
       "title_vi": "Suy luận quan hệ cho bài toán học liên tục",
       "title_en": "Continual Relational Reasoning for Class-incremental Learning",
       "advisor": "GS.TS. Lê Hoài Bắc\n TS. Tung Kieu"
     },
     {
-      "student": "Huỳnh Văn Tú",
+      "students": [
+        "Huỳnh Văn Tú"
+      ],
       "title_vi": "Phân loại Đồ thị thông qua Nhúng Cấu trúc Đồ thị",
       "title_en": "Graph Classification via Graph Structure Embedding",
       "advisor": "GS.TS. Lê Hoài Bắc"
     },
     {
-      "student": "Nguyễn Văn Thiều",
+      "students": [
+        "Nguyễn Văn Thiều"
+      ],
       "title_vi": "Hỏi đáp trên dữ liệu video trong giám sát an ninh",
       "title_en": "Video Question Answering on Surveillance Dataset",
       "advisor": "PGS.TS. Lý Quốc Ngọc\n ThS. Phạm Thanh Tùng"
     },
     {
-      "student": "Lâm Đức Anh",
+      "students": [
+        "Lâm Đức Anh"
+      ],
       "title_vi": "Dự đoán trạng thái giao thông",
       "title_en": "Traffic Map Movie Forecasting",
       "advisor": "GS. TS Lê Hoài Bắc\n TS. Nguyễn Quang Anh"
     },
     {
-      "student": "Nguyễn Ngọc Băng Tâm",
+      "students": [
+        "Nguyễn Ngọc Băng Tâm"
+      ],
       "title_vi": "Tăng hiệu quả tính toán và tính cá nhân hóa cho phương pháp Học liên kết trong bài toán dự đoán biểu tượng cảm xúc",
       "title_en": "Computation-Efficient Personalized Federated Learning for Emoji Prediction",
       "advisor": "GS. TS Lê Hoài Bắc"
     },
     {
-      "student": "Lê Minh Nhật",
+      "students": [
+        "Lê Minh Nhật"
+      ],
       "title_vi": "Phương pháp học sâu cho bài toán nhận diện cảm xúc trong môi trường thực tế dựa trên hình ảnh",
       "title_en": "Deep Learning for Image-based Emotion Recognition in the Wild",
       "advisor": "GS. TS Lê Hoài Bắc\n TS. Nguyễn Quang Anh"
     },
     {
-      "student": "Hoàng Đức Công",
+      "students": [
+        "Hoàng Đức Công"
+      ],
       "title_vi": "Xây dựng công cụ thao tác và trình diễn kết quả cho một số bài toán phân tích hình ảnh",
       "title_en": "Toward editing and visualization tools for image analysis",
       "advisor": "TS. Nguyễn Ngọc Thảo"
     },
     {
-      "student": "Cao Nhơn Hưng",
+      "students": [
+        "Cao Nhơn Hưng"
+      ],
       "title_vi": "Tái tạo hình ảnh dựa trên sóng não người EEG",
       "title_en": "Image reconstruction from Human Brain Waves EEG",
       "advisor": "PGS. TS Lý Quốc Ngọc\n ThS. Phạm Thanh Tùng"
     },
     {
-      "student": "Lê Nguyễn Nhựt Trường",
+      "students": [
+        "Lê Nguyễn Nhựt Trường"
+      ],
       "title_vi": "Phân tích tính cuốn hút của video trên Youtube",
       "title_en": "Youtube video engagement analytics",
       "advisor": "TS. Nguyễn Tiến Huy"
     },
     {
-      "student": "Lê Long Quốc",
+      "students": [
+        "Lê Long Quốc"
+      ],
       "title_vi": "Tích hợp chức năng xác thực và nhận dạng người nói cho trợ lý ảo tiếng Việt nhằm tăng cường tính bảo mật và tiện ích",
       "title_en": "Speaker verification and identification for secure and high utility Vietnamese virtual assistant",
       "advisor": "TS. Ngô Minh Nhựt"
     },
     {
-      "student": "Trần Vinh Hưng",
+      "students": [
+        "Trần Vinh Hưng"
+      ],
       "title_vi": "Phát sinh mô tả cho ảnh với thông tin tăng cường từ văn bản trong cảnh và đồ thị không gian",
       "title_en": "Spatial Graph in Image Captioning with Scene Text",
       "advisor": "PGS. TS. Trần Minh Triết"
     },
     {
-      "student": "Nguyễn Tiến Phát",
+      "students": [
+        "Nguyễn Tiến Phát"
+      ],
       "title_vi": "Tìm kiếm sự kiện trên video giao thông từ truy vấn dạng văn bản sử dụng đặc tính hình dáng và chuyển động",
       "title_en": "Traffic Video Event Retrieval via Text Query using Vehicle Appearance and Motion Attributes",
       "advisor": "PGS. TS. Trần Minh Triết\n TS. Nguyễn Văn Tâm"
     },
     {
-      "student": "Vương Hy",
+      "students": [
+        "Vương Hy"
+      ],
       "title_vi": "Biên dịch Hệ ràng buộc Hạng-1 cho mạng neural nhị phân",
       "title_en": "Rank-1 Constraint System compiler for binary neural networks",
       "advisor": "PGS. TS. Nguyễn Đình Thúc"
     },
     {
-      "student": "Hồ Nguyễn Hải Tuấn",
+      "students": [
+        "Hồ Nguyễn Hải Tuấn"
+      ],
       "title_vi": "Bảo vệ tính riêng tư mặt người trong dữ liệu và nhúng thông tin thuộc tính",
       "title_en": "Face Anonymization with Embedded Identity Using Adversarial Samples",
       "advisor": "PGS. TS. Trần Minh Triết"
     },
     {
-      "student": "Trần Đức Huy",
+      "students": [
+        "Trần Đức Huy"
+      ],
       "title_vi": "Ánh xạ con người thế giới thực vào môi trường ảo và một số ứng dụng thử nghiệm",
       "title_en": "Human Mapping from Reality to Virtual Environment and Applications",
       "advisor": "ThS. Trần Ngọc Đạt Thành\n PGS.TS. Trần Minh Triết"
     },
     {
-      "student": "Phan Gia Hảo",
+      "students": [
+        "Phan Gia Hảo"
+      ],
       "title_vi": "Nghiên cứu một số vấn đề bảo mật trên Android và xây dựng plugin hỗ trợ lập trình an toàn trên Android Studio",
       "title_en": "Security Issues in Android Application Development and Plug-in for Android Studio to Support Secure Programming",
       "advisor": "ThS. Trần Anh Duy"
     },
     {
-      "student": "Võ Ngọc Huy",
+      "students": [
+        "Võ Ngọc Huy"
+      ],
       "title_vi": "Hệ thống nhận biết mã độc bằng phương pháp điều tra bộ nhớ kết hợp với máy học",
       "title_en": "Malware identification system by memory forensics method combined with machine learning",
       "advisor": "ThS. Trần Anh Duy"
     },
     {
-      "student": "Hồ Đình Tiến",
+      "students": [
+        "Hồ Đình Tiến"
+      ],
       "title_vi": "Xây dựng ứng dụng xác thực bằng sinh trắc học",
       "title_en": "Biometric Authentication Application",
       "advisor": "TS. Trương Toàn Thịnh"
     },
     {
-      "student": "Lê Đức Thịnh",
+      "students": [
+        "Lê Đức Thịnh"
+      ],
       "title_vi": "Đánh giá sự tương đồng của tin tức dựa vào nội dung văn bản và hình ảnh sử dụng đồ thị",
       "title_en": "News Similarity based on Text and Visual Representation Using Graph",
       "advisor": "ThS. Lương Vĩ Minh"
     },
     {
-      "student": "Nguyễn Thụ Hồng Ân",
+      "students": [
+        "Nguyễn Thụ Hồng Ân"
+      ],
       "title_vi": "Khảo sát về thử nhóm",
       "title_en": "A survey on group testing",
       "advisor": "PGS.TS. Nguyễn Đình Thúc\n TS. Bùi Văn Thạch"
     },
     {
-      "student": "Nguyễn Phúc Khang",
+      "students": [
+        "Nguyễn Phúc Khang"
+      ],
       "title_vi": "Xây dựng thử nghiệm ví điện tử cho tiền ảo Bitcoin.",
       "title_en": "Building an experiment e-wallet for cryptocurrency Bitcoin",
       "advisor": "TS. Trương Toàn Thịnh"
     },
     {
-      "student": "Phạm Hữu Vinh",
+      "students": [
+        "Phạm Hữu Vinh"
+      ],
       "title_vi": "Lược đồ chữ ký nhóm dựa trên biến thể của RSA",
       "title_en": "A Group Signature Scheme Based on an RSA-Variant",
       "advisor": "PGS.TS Nguyễn Đình Thúc"

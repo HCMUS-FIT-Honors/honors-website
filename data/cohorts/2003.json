@@ -1,7 +1,7 @@
 {
   "year": 2003,
+  "student_count": 33,
   "students": [
-    "Lê Thanh Hải",
     "Thái Nguyên Trực",
     "Dương Công Lợi",
     "Võ Huy Phương",
@@ -36,115 +36,6 @@
     "Ngô Quang Huy",
     "Trần Nguyễn Thanh Tùng"
   ],
-  "student_count": 34,
-  "theses": [
-    {
-      "student": "Lê Thanh Hải",
-      "title_vi": "Phân đoạn video thành những đoạn cơ sở",
-      "title_en": "",
-      "advisor": "PGS, TS. Dương Anh Đức"
-    },
-    {
-      "student": "Dương Công Lợi",
-      "title_vi": "Tìm hiểu các thuật toán trích chọn đặc trưng cho ứng dụng gán nhãn tự động video",
-      "title_en": "",
-      "advisor": "PGS TS Dương Anh Đức"
-    },
-    {
-      "student": "Lê Nguyên Quy",
-      "title_vi": "Thuật giải tối ưu hóa bầy kiến ứng dụng vào bài toán phân tích dữ liệu",
-      "title_en": "",
-      "advisor": "PGS, TS. Lê Hoài Bắc"
-    },
-    {
-      "student": "Vũ Quốc Hoàng",
-      "title_vi": "Xây dựng một ngôn ngữ lập trình hỗ trợ lập trình theo phong cách Automata và Grammar",
-      "title_en": "",
-      "advisor": "TS Đinh Điền"
-    },
-    {
-      "student": "Võ Huỳnh Tuấn Kiệt",
-      "title_vi": "Ứng dụng Neural Network và Support Vector Machine vào phát triển thuật toán watermarking trên ảnh màu",
-      "title_en": "",
-      "advisor": "PGS TS Lê Hoài Bắc"
-    },
-    {
-      "student": "Đỗ Quốc Cường",
-      "title_vi": "Tìm hiểu Steganography Detecting System và minh hoạ với những dữ liệu ẩn bằng Jsteg",
-      "title_en": "",
-      "advisor": "PGS TS Lê Hoài Bắc"
-    },
-    {
-      "student": "Châu Minh Thuận",
-      "title_vi": "Xây dựng phần mềm cho thiết bị di động VoiceIP trên hệ thống nhúng",
-      "title_en": "",
-      "advisor": "ThS Nguyễn Tri Tuấn"
-    },
-    {
-      "student": "Trần Minh Hòa",
-      "title_vi": "Nghiên cứu và xây dựng ứng dụng xem video theo định dạng MPEG-4 tích hợp trên hệ thống nhúng ARM9",
-      "title_en": "",
-      "advisor": "PGS TS Dương Anh Đức"
-    },
-    {
-      "student": "Hoàng Thị Anh Thư",
-      "title_vi": "Nghiên cứu và xây dựng thử nghiệm hệ thống cách ly mạng phi chuẩn trên hệ thống nhúng",
-      "title_en": "",
-      "advisor": "ThS Đỗ Hoàng Cường"
-    },
-    {
-      "student": "Ưng Quốc Tuấn",
-      "title_vi": "Nghiên cứu và phát triển hệ thống xây dựng và vận hành robot thu thập thông tin trên web và ứng dụng",
-      "title_en": "",
-      "advisor": "ThS Đỗ Hoàng Cường"
-    },
-    {
-      "student": "Đậu Ngọc Hà Dương",
-      "title_vi": "Nghiên cứu và xây dựng thử nghiệm hệ thống bảo mật nội dung và kiểm soát truy cập sử dụng thiết bị nhúng trong dịch vụ multimedia",
-      "title_en": "",
-      "advisor": "ThS Trần Minh Triết"
-    },
-    {
-      "student": "Đinh Thái Hòa",
-      "title_vi": "Nghiên cứu và xây dựng engine tổng hợp tiếng nói trên hệ thống nhúng",
-      "title_en": "",
-      "advisor": "TS Vũ Hải Quân"
-    },
-    {
-      "student": "Trần Nam",
-      "title_vi": "Xây dựng web portal cho trường phổ thông trung học",
-      "title_en": "",
-      "advisor": "ThS Nguyễn Tiến Huy"
-    },
-    {
-      "student": "Hà Hoàng Hảo",
-      "title_vi": "Xây dựng ứng dụng tự điển trên điện thoại di động",
-      "title_en": "",
-      "advisor": "ThS Nguyễn Tiến Huy"
-    },
-    {
-      "student": "Từ Minh Tuấn",
-      "title_vi": "Nghiên cứu kĩ thuật và xây dựng ứng dụng CMS Flash",
-      "title_en": "",
-      "advisor": "ThS Nguyễn Tiến Huy"
-    },
-    {
-      "student": "Lê Văn Cảnh",
-      "title_vi": "Tìm hiểu và xây dựng ứng dụng quản lý luồng dữ liệu",
-      "title_en": "",
-      "advisor": "ThS Bùi Minh Từ Diễm"
-    },
-    {
-      "student": "Đoàn Công Hương",
-      "title_vi": "Xây dựng phần mềm hỗ trợ hướng dẫn luận văn tốt nghiệp trong đào tạo từ xa",
-      "title_en": "",
-      "advisor": "ThS Đặng Thế Khoa"
-    },
-    {
-      "student": "Ngô Quang Huy",
-      "title_vi": "Xây dựng bộ công cụ hỗ trợ kiểm tra và giám sát trong hệ thống đào tạo từ xa",
-      "title_en": "",
-      "advisor": "ThS Đặng Thế Khoa"
-    }
-  ]
+  "thesis_count": 0,
+  "theses": []
 }

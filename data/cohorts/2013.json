@@ -1,7 +1,7 @@
 {
   "year": 2013,
+  "student_count": 53,
   "students": [
-    "La Ngọc Thùy An",
     "Nguyễn Phước Đạt",
     "Bùi Trung Hải",
     "Phạm Ngọc Tuấn",
@@ -56,6 +56,6 @@
     "Huỳnh Thị Thiêm",
     "Đoàn Thị Hồng Hân"
   ],
-  "student_count": 54,
+  "thesis_count": 0,
   "theses": []
 }

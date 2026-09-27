@@ -1,7 +1,7 @@
 {
   "year": 2005,
+  "student_count": 26,
   "students": [
-    "Cao Thanh Bình",
     "Nguyễn Dương Tuấn",
     "Lê Nguyên Khoa",
     "Võ Anh Quân",
@@ -29,91 +29,6 @@
     "Nguyễn Chí Thiện",
     "Trịnh Huy Thông"
   ],
-  "student_count": 27,
-  "theses": [
-    {
-      "student": "Cao Thanh Bình",
-      "title_vi": "Xây dựng ứng dụng web hỗ trợ thanh tra viên trong tiến trình kiểm duyệt mã nguồn",
-      "title_en": "",
-      "advisor": "Trần Đan Thư"
-    },
-    {
-      "student": "Lê Nguyên Khoa",
-      "title_vi": "Truy vấn thông tin trên blog",
-      "title_en": "",
-      "advisor": "Hồ Bảo Quốc"
-    },
-    {
-      "student": "Hồng Anh Khoa",
-      "title_vi": "Tìm hiểu kiến trúc UIMA và ứng dụng phân loại bệnh án điện tử",
-      "title_en": "",
-      "advisor": "Hồ Bảo Quốc"
-    },
-    {
-      "student": "Phan Lê Sang",
-      "title_vi": "Nghiên cứu và xây dựng thử nghiệm hệ thống thiết kế và vận hành quy trình tổng hợp dịch vụ web có hỗ trợ ngữ nghĩa",
-      "title_en": "",
-      "advisor": "Trần Minh Triết"
-    },
-    {
-      "student": "Lê Hùng Nguyễn Quốc",
-      "title_vi": "Hệ thống điều khiển máy tính bằng tin nhắn điện thoại (SMS)",
-      "title_en": "",
-      "advisor": "Đỗ Hoàng Cường"
-    },
-    {
-      "student": "Phạm Công Bằng",
-      "title_vi": "Xây dựng công cụ hỗ trợ trao đổi trực tuyến phục vụ đào tạo từ xa",
-      "title_en": "",
-      "advisor": "Đỗ Hoàng Cường"
-    },
-    {
-      "student": "Phạm Văn Hoàng",
-      "title_vi": "Nghiên cứu và xây dựng ứng dụng Web Conference với công nghệ RIA",
-      "title_en": "",
-      "advisor": "Lâm Quang Vũ"
-    },
-    {
-      "student": "Cao Thuỳ Trang",
-      "title_vi": "Tìm hiểu DMS (Document Management System) mã nguồn mở và ứng dụng",
-      "title_en": "",
-      "advisor": "Trần Thị Bích Hạnh, Lương Vĩ Minh"
-    },
-    {
-      "student": "Phạm Quỳnh Nga",
-      "title_vi": "Sử dụng phương pháp Markov Chain Monte Carlo cho bài toán theo vết đối tượng",
-      "title_en": "",
-      "advisor": "Vũ Hải Quân, Phạm Nam Trung"
-    },
-    {
-      "student": "Hoàng Trọng Nghĩa",
-      "title_vi": "Kết hợp các nguồn tài nguyên ngữ liệu để xử lý nhập nhằng ngữ nghĩa trong dịch máy Anh - Việt",
-      "title_en": "",
-      "advisor": "Đinh Điền"
-    },
-    {
-      "student": "Trần Minh An",
-      "title_vi": "Phát hiện và theo vết nhiều đối tượng chuyển động (#1)",
-      "title_en": "",
-      "advisor": "Đinh Bá Tiến"
-    },
-    {
-      "student": "Nguyễn Thúy Ngọc",
-      "title_vi": "Phát hiện và theo vết nhiều đối tượng chuyển động (#2)",
-      "title_en": "",
-      "advisor": "Đinh Bá Tiến"
-    },
-    {
-      "student": "Nguyễn Ngọc Hoan",
-      "title_vi": "Bản đồ điện tử và một số dịch vụ trên điện thoại di động có GPS",
-      "title_en": "",
-      "advisor": "Đinh Bá Tiến"
-    },
-    {
-      "student": "Nguyễn Chí Thiện",
-      "title_vi": "Tìm hiểu và xây dựng chương trình mô phỏng đám đông di chuyển trong tòa nhà sử dụng Panda3D",
-      "title_en": "",
-      "advisor": "Dương Anh Đức"
-    }
-  ]
+  "thesis_count": 0,
+  "theses": []
 }

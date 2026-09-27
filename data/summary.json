@@ -2,108 +2,150 @@
   "cohorts": [
     {
       "year": 2002,
-      "students": 21,
-      "theses": 16
+      "students": 20,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2003,
-      "students": 34,
-      "theses": 18
+      "students": 33,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2004,
-      "students": 36,
-      "theses": 19
+      "students": 35,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2005,
-      "students": 27,
-      "theses": 14
+      "students": 26,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2006,
-      "students": 30,
-      "theses": 18
+      "students": 29,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2007,
-      "students": 29,
-      "theses": 17
+      "students": 28,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2008,
-      "students": 50,
-      "theses": 30
+      "students": 49,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2009,
-      "students": 50,
-      "theses": 31
+      "students": 49,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2010,
-      "students": 55,
-      "theses": 32
+      "students": 54,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2011,
-      "students": 37,
-      "theses": 21
+      "students": 36,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2012,
-      "students": 42,
-      "theses": 25
+      "students": 41,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2013,
-      "students": 54,
-      "theses": 0
+      "students": 53,
+      "theses": 0,
+      "one_student_theses": 0,
+      "two_student_theses": 0
     },
     {
       "year": 2014,
       "students": 42,
-      "theses": 22
+      "theses": 22,
+      "one_student_theses": 22,
+      "two_student_theses": 0
     },
     {
       "year": 2015,
       "students": 52,
-      "theses": 29
+      "theses": 29,
+      "one_student_theses": 29,
+      "two_student_theses": 0
     },
     {
       "year": 2016,
       "students": 49,
-      "theses": 30
+      "theses": 30,
+      "one_student_theses": 30,
+      "two_student_theses": 0
     },
     {
       "year": 2017,
       "students": 62,
-      "theses": 36
+      "theses": 36,
+      "one_student_theses": 36,
+      "two_student_theses": 0
     },
     {
       "year": 2018,
       "students": 59,
-      "theses": 30
+      "theses": 30,
+      "one_student_theses": 30,
+      "two_student_theses": 0
     },
     {
       "year": 2019,
       "students": 70,
-      "theses": 37
+      "theses": 37,
+      "one_student_theses": 3,
+      "two_student_theses": 34
     },
     {
       "year": 2020,
       "students": 64,
-      "theses": 34
+      "theses": 34,
+      "one_student_theses": 4,
+      "two_student_theses": 30
     },
     {
       "year": 2021,
       "students": 44,
-      "theses": 24
+      "theses": 24,
+      "one_student_theses": 4,
+      "two_student_theses": 20
     },
     {
       "year": 2022,
       "students": 36,
-      "theses": 20
+      "theses": 20,
+      "one_student_theses": 4,
+      "two_student_theses": 16
     }
   ]
 }

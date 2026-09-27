@@ -18,3 +18,8 @@ Note: cohort counts 2002–2022 are based on the supplied workbook data; 2023–
 - Each cohort has a JSON data file under `data/cohorts/`.
 - 2023–2026 pages are prepared as placeholders pending confirmed public data.
 - Counts on these pages mean records found in the thesis workbook, not necessarily original enrollment.
+
+## v6 — exact thesis grouping
+Thesis cards are grouped by the STT structure in the original workbook.
+All student rows belonging to the same STT are shown together on one thesis card.
+No MSSV is published.
